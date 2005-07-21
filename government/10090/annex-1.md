@@ -13,7 +13,7 @@ I. ԸՆԴՀԱՆՈՒՐ ԴՐՈՒՅԹՆԵՐ
 հայերեն կրճատ` «ԵՃՇՊՏ» ՊՈԱԿ,
 ռուսերեն լրիվ` "Ереванский государственный университет архитектуры и строительства", государственная некоммерческая организация,
 ռուսերեն կրճատ` "ЕГУАС" ГНО,
-անգլերեն լրիվ` Yerevan State University of Architecture & Construction State Non Profit Organization,
+անգլերեն լրիվ` Yerevan State University of Architecture & Construction State Non Profit Organizatiօn,
 անգլերեն կրճատ` YSUAC SNPO:
 5. Համալսարանի գտնվելու վայրն է` Հայաստանի Հանրապետություն, քաղ. Երևան, 375009, Տերյան 105:
 II. ՀԱՄԱԼՍԱՐԱՆԻ ԽՆԴԻՐՆԵՐԸ ԵՎ ԻՐԱՎԱՍՈՒԹՅՈՒՆԸ
