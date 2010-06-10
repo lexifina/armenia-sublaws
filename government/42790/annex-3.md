@@ -8,10 +8,11 @@
 The holder of this card has a right to live in the Republic of Armenia, exit and enter the Republic of Armenia.
 2) կացության քարտը կորցնելու դեպքում օտարերկրացին անհապաղ դիմում է քարտը տրամադրած մարմնին.
 In gase of loss of the residence card should turn immediately to police authorities.
-3) կացության կարգավիճակը երկարաձգելու դիմումը ներկայացվում է կարգավիճակի ժամկետը լրանալուց առնվազն 30 օր առաջ.
-The holder of this card should apply to update authority 30 days before the expiring date.
+3) կացության կարգավիճակը երկարաձգելու դիմումը ներկայացվում է կարգավիճակի ժամկետը լրանալուց առնվազն 30 օր առաջ, իսկ ուսման նպատակով ժամանակավոր կացության կարգավիճակը երկարաձգելու դիմումը կարող է ներկայացվել մինչև ժամանակավոր կարգավիճակի ժամկետը լրանալու վերջին օրը.
+The holder of this card shoսld apply to update authority 30 days before the expiring date, but in case of study propouses the հolder of this card can apply to update before the date of expiration..
 4) նշումներ.
 OBSERVATIONS:
+(3-րդ կետը լրաց. 27.05.10 N 635-Ն)
 4. Ժամանակավոր և մշտական կացության քարտի երկու երեսի կենտրոնում գունավոր պատկերված է Հայաստանի Հանրապետության զինանշանը, որը երիզվում է վարդագույն և կապտավուն զարդանախշով:
 5. Ժամանակավոր և մշտական կացության քարտերը պատրաստվում են սերիաներով` յուրաքանչյուրը 10.000 տպաքանակով: Սերիաները նշագրվում են լատիներեն մեծատառերով (AA, AB, AC և այլն): Ժամանակավոր կացության և մշտական կացության քարտերի համարակալումն սկսվում է 0000001 և ավարտվում` 0010000 թվանշաններով:
 ՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ՀԱՏՈՒԿ ԱՆՁՆԱԳՐԻ ՆԿԱՐԱԳԻՐԸ ԵՎ ՁԵՎԸ
