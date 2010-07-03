@@ -2,7 +2,7 @@
 2. ԲՈՒՍԱՍԱՆԻՏԱՐԱԿԱՆ ՀԱՎԱՍՏԱԳԻՐ PHYTOSANITARY CERTIFICATE Original AM №
 ՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ԳՅՈՒՂԱՏՆՏԵՍՈՒԹՅԱՆ ՆԱԽԱՐԱՐՈՒԹՅՈՒՆ REPUBLIC OF ARMENIA MINISTRY OF AGRICULTURE
 1. Արտահանողի անունն ու հասցեն Name and address of exporter | 3. Բեռ ստացողի հայտարարագրված անունն ու հասցեն Declared name and address of consignee
-4. Բույսերի կարանտինի և երկրագործության պետական տեսչություն Plant Quarantine and land Management State Inspectorate | 5. Ծագման վայրը Place of origin
+4. Բուսասանիտարիայի պետական տեսչություն State inspectorate on Plant sanitary | 5. Ծագման վայրը Place of origin
 Բույսերի պաշտպանության և կարանտինի մարմին /երկիր/ To Plant Protection and Quarantine Organization of | 6. Հայտարարագրված փոխադրամիջոցը Declared means of conveyance
 7. Հայտարարագրված մուտքի վայրը Declared point of entry
 8. Տարբերակման նշաններ /նշառում/, փաթեթների թիվը և նկարագրերը, ապրանքի անվանումը, բույսերի բուսաբանական անվանումը Distinguishing marks, number and description of packages, name of produce and Botanical name of plants | 9. Հայտարարագրված քանակը Quantity declared
@@ -13,4 +13,6 @@
 13. Քիմիական նյութ /ակտիվ բաղադրիչ/ Chemical (active ingredient) | 14. Տևողությունը և ջերմաստիճանը Duration and temperature
 15. Խտություն Concentration | 16. Ամսաթիվը Date
 17. Լրացուցիչ տեղեկություն Additional information
+(Հավելվածը փոփ. 10.06.10 N 733-Ն)
+(Ռուսերեն, ֆրանսերեն, իսպաներեն, արաբերեն տեքստերի լրացումները տե´ս 10.06.10 N 733-Ն որոշման մեջ)
 Հայաստանի Հանրապետության կառավարության աշխատակազմի ղեկավար-նախարար | Մ. Թոփուզյան
