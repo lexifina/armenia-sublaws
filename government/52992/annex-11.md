@@ -11,8 +11,8 @@
 Նշում`
 1. Էքսպո Շանհայ Օնլայն ծրագրին վերաբերող մանրամասն տեղեկատվության համար նայեք Շանհայ 2010 Չինաստան Համաշխարհային Ցուցահանդեսի Օնլայն Մասնակիցների Ձեռնարկի վերջին լրամշակումը:
 Նամակագրություն`
-Bureau of Sհangհai World Expo Coordination
+Bureau of Shanghai World Expo Coordination
 Mr. Chen Xuyan; Mr. Chen Xiaobo / Expo Shanghai Online Division
-3588 Pudong (S.) Rd., Sհangհai, P.R. China Postal Code: 200125
+3588 Pudong (S.) Rd., Shanghai, P.R. China Postal Code: 200125
 Tel: 0086 21 2206 2010 Fax: 0086 21 2206 0311
 Email, info@expo2010.gov.cn
