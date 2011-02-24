@@ -23,7 +23,7 @@
 Մարշրոտիզատոր (CISCO routers)` 10/100 routed port HWIC | հատ | 4 | ՆՄ | օգոստոս | հոկտեմբեր | 1237.8
 Մարշրոտիզատոր (CISCO routers)` 16-Channel Packet Voice/Fax DSP Module | հատ | 2 | ՆՄ | օգոստոս | հոկտեմբեր | 550.1
 Մարշրոտիզատոր (CISCO routers)` CISCO 2800 ADVANCED IP SERVICES Feature Pack | հատ | 2 | ՆՄ | օգոստոս | հոկտեմբեր | 1169.0
-Մարշրոտիզատոր (CISCO routers)` Cisco 1811 witհ IOS Advanced IP Services (7 ports available on integrated switch) | հատ | 2 | ՆՄ | օգոստոս | հոկտեմբեր | 891.6
+Մարշրոտիզատոր (CISCO routers)` Cisco 1811 with IOS Advanced IP Services (7 ports available on integrated switch) | հատ | 2 | ՆՄ | օգոստոս | հոկտեմբեր | 891.6
 Ցանցային սվիչ (Switches)` HP ProCurve Switch 2810-24G | հատ | 1 | ՆՄ | օգոստոս | հոկտեմբեր | 845.3
 Ցանցային սվիչ (Switches)` HP ProCurve Switch 2510-24 (24 10/100 port) | հատ | 1 | ՆՄ | օգոստոս | հոկտեմբեր | 208.8
 Ցանցային սվիչ (Switches)` HP ProCurve Switch 2650 (48 10/100 port) | հատ | 1 | ՆՄ | օգոստոս | հոկտեմբեր | 572.0
