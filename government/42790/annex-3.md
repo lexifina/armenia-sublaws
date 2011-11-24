@@ -8,8 +8,8 @@
 The holder of this card has a right to live in the Republic of Armenia, exit and enter the Republic of Armenia.
 2) կացության քարտը կորցնելու դեպքում օտարերկրացին անհապաղ դիմում է քարտը տրամադրած մարմնին.
 In gase of loss of the residence card should turn immediately to police authorities.
-3) կացության կարգավիճակը երկարաձգելու դիմումը ներկայացվում է կարգավիճակի ժամկետը լրանալուց առնվազն 30 օր առաջ, իսկ ուսման նպատակով ժամանակավոր կացության կարգավիճակը երկարաձգելու դիմումը կարող է ներկայացվել մինչև ժամանակավոր կարգավիճակի ժամկետը լրանալու վերջին օրը.
-The holder of this card shoսld apply to update authority 30 days before the expiring date, but in case of study propouses the հolder of this card can apply to update before the date of expiration..
+3) կացության կարգավիճակը երկարաձգելու դիմումը ներկայացվում է կարգավիճակի ժամկետը լրանալուց առնվազն 30 oր առաջ, իսկ ուսման նպատակով ժամանակավոր կացության կարգավիճակը երկարաձգելու դիմումը կարող է ներկայացվել մինչև ժամանակավոր կարգավիճակի ժամկետը լրանալու վերջին օրը.
+The holder of this card should apply to update authority 30 days before the expiring date, but in case of study propouses the holder of this card can apply to update before the date of expiration..
 4) նշումներ.
 OBSERVATIONS:
 (3-րդ կետը լրաց. 27.05.10 N 635-Ն)
