@@ -2,6 +2,7 @@
 Ց Ա Ն Կ
 ՄԻՋԱԶԳԱՅԻՆ ԶԱՐԳԱՑՄԱՆ ԱՅՆ ԿԱԶՄԱԿԵՐՊՈՒԹՅՈՒՆՆԵՐԻ, ՈՐՈՆՑԻՑ ՍՏԱՑՎԱԾ ՓՈԽԱՌՈՒԹՅՈՒՆՆԵՐԻ ԴԻՄԱՑ ՎՃԱՐՄԱՆ ԵՆԹԱԿԱ ՏՈԿՈՍՆԵՐԻ ՄԱՍՈՎ ՇԱՀՈՒԹԱՀԱՐԿՈՎ ՀԱՐԿՄԱՆ ՆՊԱՏԱԿՈՎ ՀԱՄԱԽԱՌՆ ԵԿԱՄՏԻՑ ՆՎԱԶԵՑՄԱՆ ԱՌԱՎԵԼԱԳՈՒՅՆ ԹՈՒՅԼԱՏՐԵԼԻ ՆՈՐՄԱ ՉԻ ԿԻՐԱՌՎՈՒՄ
 1. ԱՄՆ-ի միջազգային զարգացման գործակալություն (United States Agency for International Development)
+1.1. Անդրծովյան մասնավոր ներդրումային կորպորացիա (Overseas Private Investment Corporation)
 2. Առևտրի և զարգացման սևծովյան բանկ (Black Sea Trade and Development Bank)
 3. Առևտրի համաշխարհային կազմակերպություն (World Trade Organization)
 4. Ասիական զարգացման բանկ (Asian Development Bank)
@@ -18,14 +19,15 @@
 15. Եվրոպա-Կովկաս ճանապարհային միջանցք (Transport Corridor Europe-Caucasus-Asia)
 16. Զարգացման և համագործակցության շվեյցարական գործակալություն (Swiss Agency for Development and Cooperation)
 17. Իսպանական միջազգային համագործակցության գործակալություն (Spanish Agency for International Cooperation)
-18. Իտալական զարգացման և համագործակցության ծրագիր (Italian Development Conperation Programme)
+18. Իտալական զարգացման և համագործակցության ծրագիր (Italian Development Cooperation Programme)
 19. Կանադայի միջազգային զարգացման գործակալություն (Canadian International Development Agency)
 20. Հազարամյակի մարտահրավերներ հիմնադրամ (Millennium Challenge Corporation)
 21. Համաշխարհային բանկի խումբ (World Bank Gronp)
+21.1. Հարավարևելյան Եվրոպայի եվրոպական հիմնադրամ (European Fund for Southeast Europe)
 22. Ճապոնիայի միջազգային զարգացման գործակալություն (Japan International Cooperation Agency)
 23. ՄԱԿ-ի առևտրի և զարգացման կոնֆերանս (United Nations Conference on Trade and Development)
 24. ՄԱԿ-ի արդյունաբերական զարգացման կազմակերպություն (United Nations Industrial Development Organization)
-25. ՄԱԿ-ի Եվրոպայի տնտեսական հանձնաժողով (United Nations Economic Comission for Europe)
+25. ՄԱԿ-ի Եվրոպայի տնտեսական հանձնաժողով (United Nations Economic Commission for Europe)
 26. ՄԱԿ-ի երեխաների հիմնադրամ (United Nations Children's Fund)
 27. ՄԱԿ-ի զարգացման ծրագիր (United Nations Development Programme)
 28. ՄԱԿ-ի շրջակա միջավայրի ծրագիր (United Nations Environment Programme)
@@ -49,4 +51,6 @@
 46. Փրկեք երեխաներին (Save the Children)
 47. ՕՊԵԿ-ի միջազգային զարգացման հիմնադրամ (Organization of Petroleum-Exporting Countries)
 48. Ֆրանսիական զարգացման գործակալություն (French Development Agency)
+(ցանկը լրաց. 27.09.12 N 1216-Ն)
+(հավելվածը լրաց. 27.09.12 N 1216-Ն)
 Հայաստանի Հանրապետության կառավարության աշխատակազմի ղեկավար | Դ. Սարգսյան
