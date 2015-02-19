@@ -224,4 +224,453 @@
 104 ՏՐԱՆՍՊՈՐՏԱՅԻՆ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐ
 1041 Տրանսպորտային ծառայություններ
 104101.00.6 104101.00.7 | Թռչող ապարատների թռիչքային շահագործում | Տրանսպորտային ծառայության բակալավր, օդաչու Տրանսպորտային ծառայության մագիստրոս, օդաչու
+LIST of Specialties and Qualifications of Higher Professional Education of the Republic of Armenia
+Code /decipher/ | Specialty | Qualification
+01 EDUCATION
+011 EDUCATION
+0111 Educational Sciences
+011101.00.7 | Educational sciences | Master of Education
+011102.00.7 | Theory and history of pedagogy | Master of Education
+0112 Preschool Pedagogy
+011201.00.6 011201.00.7 | Preschool pedagogy | Bachelor of Pedagogy Master of Pedagogy
+0113 General Pedagogy
+011301.00.06 011301.00.07 | General pedagogy | Bachelor of Pedagogy Master of Pedagogy
+011302.00.06 011302.00.07 | Special pedagogy | Bachelor of Pedagogy Master of Pedagogy
+0114 Subject-oriented Pedagogy
+011401.00.06 011401.00.07 | Specialized pedagogy | Bachelor of Pedagogy Master of Pedagogy
+02 HUMANITIES AND ARTS
+021 ARTS
+0211 Audiovisual Art and Media Art
+021101.00.6 021101.00.7 | Audiovisual art | Bachelor of Arts Master of Arts
+021102.00.6 021102.00.7 | Media art | Bachelor of Arts Master of Arts
+021103.00.6 021103.00.7 | Cinematographic art | Bachelor of Arts Master of Arts
+0212 Design
+021201.00.6 021201.00.7 | Design | Bachelor of Arts Master of Arts
+0213 Fine Arts
+021301.00.6 021301.00.7 | Fine arts | Bachelor of Arts Master of Arts
+0214 Applied Arts
+021401.00.6 021401.00.7 | Applied arts | Bachelor of Arts Master of Arts
+0215 Musical Art and Performing Arts
+021501.00.6 021501.00.7 | Musical art | Bachelor of Arts Master of Arts
+021502.00.6 021502.00.7 | Performing arts | Bachelor of Arts Master of Arts
+021503.00.6 021503.00.7 | Theatre art | Bachelor of Arts Master of Arts
+021504.00.6 021504.00.7 | Choreography directing | Bachelor of Arts Master of Arts
+0218 Inter-disciplinary specialties
+021801.00.6 021801.00.7 | Theory and history of art | Bachelor Theory and History of Art Master Theory and History of Art
+022 HUMANITIES
+0221 Religious Studies and Theology
+022101.00.6 022101.00.7 | Religious studies | Bachelor of Religious Studies Master of Religious Studies
+022102.00.6 022102.00.7 | Theology | Bachelor of Theology Master of Theology
+0222 History and Archaeology
+022201.00.6 022201.00.7 | History | Bachelor of History Master of History
+022202.00.6 022202.00.7 | Archaeology | Bachelor of History Master of History
+0223 Philosophy and Ethics
+022301.00.6 022301.00.7 | Philosophy | Bachelor of Philosophy Master of Philosophy
+022302.00.7 | Ethics | Master of Philosophy
+0228 Inter-disciplinary specialties
+022801.00.6 022801.00.7 | Oriental studies | Bachelor of Oriental Studies Master of Oriental Studies
+022802.00.6 022802.00.7 | Caucasian studies | Bachelor of Caucasian studies Master of Caucasian studies
+022803.00.7 | Armenian studies | Master of Armenian Studies
+022804.00.6 022804.00.7 | Anthropology | Bachelor of Antropology Master of Antropology
+023 PHILOLOGICAL SCIENCES
+0231 Philology
+023101.00.6 023101.00.7 | Armenian language and literature | Bachelor of Philology Master of Philology
+023102.00.6 023102.00.7 | Foreign languages and literature | Bachelor of Philology Master of Philology
+0232 Linguistics
+023201.00.6 023201.00.7 | Linguistics | Bachelor of Philology Master of Philology
+03 SOCIAL SCIENCES, JOURNALISM AND INFORMATION SCIENCES
+031 SOCIAL AND BEHAVIOURAL SCIENCES
+0311 Economics
+031101.00.6 031101.00.7 | Economics | Bachelor of Economics Master of Economics
+0312 Political Sciences
+031201.00.6 031201.00.7 | Political science | Bachelor of Political Science Master of Political Science
+0313 Psychology
+031301.00.6 031301.00.7 | Psychology | Bachelor of Psychology Master of Psychology
+0314 Sociology
+031401.00.6 031401.00.7 | Sociology | Bachelor of Sociology Master of Sociology
+0315 Cultural Studies
+031501.00.6 031501.00.7 | Cultural studies | Bachelor of Cultural Studies Master of Cultural Studies
+0318 Inter-disciplinary specialties
+031801.00.6 031801.00.7 | International relations | Bachelor of International Relations Master of International Relations
+031802.00.6 031802.00.7 | Agrieconomics | Bachelor of Economics Master of Economics
+031803.00.7 | European studies | Master of European Studies
+031804.00.7 | Public relations | Master of Public Relations
+032 JOURNALISM AND INFORMATION SCIENCES
+0321 Journalism
+032101.00.6 032101.00.7 | Journalism | Bachelor of Journalism Master of Journalism
+0322 Library Information Resources and Archival Studies
+032201.00.6 032201.00.7 | Library information resources | Bachelor of Information Sciences Master of Information Sciences
+032202.00.6 032202.00.7 | Archival studies | Bachelor of Information Sciences Master of Information Sciences
+04 BUSINESS, ADMINISTRATION AND LAW
+041 BUSINESS AND ADMINISTRATION
+0411 Accounting and Taxation
+041101.00.6 041101.00.7 | Accounting and taxation | Bachelor of Economics Master of Economics
+0412 Finance
+041201.00.6 041201.00.7 | Finance | Bachelor of Economics Master of Economics
+0413 Management and Administration
+041301.00.6 041301.00.7 | Management | Bachelor of Management Master of Management
+0414 Marketing
+041401.00.6 041401.00.7 | Marketing | Bachelor of Management Master of Management
+0418 Inter-disciplinary specialties
+041801.00.6 041801.00.7 | Agribusiness | Bachelor of Economics Master of Economics
+042 LAW
+0421 Law
+042101.00.6 042101.00.7 | Jurisprudence | Bachelor of Laws Master of Laws
+05 NATURAL SCIENCES, MATHEMATICS AND STATISTICS
+051 BIOLOGICAL SCIENCES
+0511 Biology
+051101.00.6 051101.00.7 | Biology | Bachelor of Biology Master of Biology
+0512 Biochemistry and Biophysics
+051201.00.6 051201.00.7 | Biochemistry | Bachelor of Biology Master of Biology
+051202.00.6 051202.00.7 | Biophysics | Bachelor of Biology Master of Biology
+052 ENVIRONMENT
+0521 Environmental Sciences
+052101.00.6 052101.00.7 | Environmental sciences | Bachelor of Environment Master of Environment
+0522 Natural Environments
+052201.00.6 052201.00.7 | Nature protection and natural resource management | Bachelor of Environment Master of Environment
+053 CHEMISTRY
+0531 Chemistry
+053101.00.6 053101.00.7 | Chemistry | Bachelor of Chemistry Master of Chemistry
+054 EARTH SCIENCES
+0541 Geology
+054101.00.6 054101.00.7 | Geology | Bachelor of Geology Master of Geology
+0542 Geography
+054201.00.6 054201.00.7 | Geography | Bachelor of Geography Master of Geography
+055 PHYSICAL SCIENCES
+0551 Physics
+055101.00.6 055101.00.7 | Physics | Bachelor of Physics Master of Physics
+055102.00.6 055102.00.7 | Radiophysics | Bachelor of Physics Master of Physics
+055103.00.7 | Astronomy | Master of Physics
+056 MATHEMATICS AND STATISTICS
+0561 Mathematics
+056101.00.6 056101.00.7 | Mathematics | Bachelor of Mathematics Master of Mathematics
+0562 Statistics
+056201.00.6 056201.00.7 | Statistics | Bachelor of Statistics Master of Statistics
+0568 Inter-disciplinary specialties
+056801.00.6 056801.00.7 | Mechanics | Bachelor of Mechanics Master of Mechanics
+056802.00.6 056802.00.7 | Financial mathematics | Bachelor of Financial Mathematics Master of Financial Mathematics
+06 INFORMATION AND COMMUNICATION TECHNOLOGIES (ICTs)
+061 INFORMATION AND COMMUNICATION TECHNOLOGIES (ICTs)
+0611 Computing
+061101.00.6 061101.00.7 | Informatics (Computer science) | Bachelor of Informatics Master of Informatics
+061102.00.6 061102.00.7 | Software engineering | Bachelor of Informatics Master of Informatics
+061103.00.6 061103.00.7 | Computer engineering | Bachelor of Informatics Master of Informatics
+061104.00.6 061104.00.7 | Information systems | Bachelor of Informatics Master of Informatics
+061105.00.6 061105.00.7 | Information technologies | Bachelor of Informatics Master of Informatics
+0619 Computer Security
+061901.00.6 061901.00.7 | Information security | Bachelor of Information Security Master of Information Security
+07 ENGINEERING, MANUFACTURING AND CONSTRUCTION
+071 ENGINEERING
+0711 Chemical Engineering
+071101.00.6 071101.00.7 | Chemical engineering | Bachelor of Engineering Master of Engineering
+0712 Environmental Protection Technology
+071201.00.6 071201.00.7 | Environmental protection | Bachelor of Engineering Master of Engineering
+071202.00.6 071202.00.7 | Life safety | Bachelor of Engineering Master of Engineering
+0713 Energy Engineering and Electrical Engineering
+071301.00.6 071301.00.7 | Power engineering | Bachelor of Engineering Master of Engineering
+071302.00.6 071302.00.7 | Electrical Engineering | Bachelor of Engineering Master of Engineering
+0714 Electronics and Automation
+071401.00.6 071401.00.7 | Electronics | Bachelor of Engineering Master of Engineering
+071402.00.6 071402.00.7 | Automation | Bachelor of Engineering Master of Engineering
+071403.00.6 071403.00.7 | Radiotechnics /Radioengineering/ and telecommunication | Bachelor of Engineering Master of Engineering
+0715 Metallurgy and Mechanical Engineering
+071501.00.6 071501.00.7 | Metallurgy | Bachelor of Engineering Master of Engineering
+071502.00.6 071502.00.7 | Mechanical engineering and material processing | Bachelor of Engineering Master of Engineering
+071503.00.6 071503.00.7 | Machine science | Bachelor of Engineering Master of Engineering
+071504.00.6 071504.00.7 | Power machine engineering | Bachelor of Engineering Master of Engineering
+071505.00.6 071505.00.7 | Transport machine engineering | Bachelor of Engineering Master of Engineering
+071506.00.6 071506.00.7 | Instrument engineering and metrology | Bachelor of Engineering Master of Engineering
+0716 Vehicles and Aircraft
+071601.00.6 071601.00.7 | Transport systems | Bachelor of Engineering Master of Engineering
+071602.00.6 071602.00.7 | Agricultural production mechanization, machines and equipment | Bachelor of Engineering Master of Engineering
+071603.00.6 071603.00.7 | Aerospace engineering | Bachelor of Engineering Master of Engineering
+071604.00.6 071604.00.7 | Missile complexes | Bachelor of Engineering Master of Engineering
+0718 Inter-disciplinary specialties
+071801.00.6 071801.00.7 | Materials science and technology of new materials | Bachelor of Engineering Master of Engineering
+071802.00.6 071802.00.7 | Industrial engineering | Bachelor of Engineering Master of Engineering
+072 MANUFACTURING AND PROCESSING
+0721 Food Technology
+072101.00.6 072101.00.7 | Food technology | Bachelor of Technology Master of Technology
+0723 Textile Industry
+072301.00.6 072301.00.7 | Technology of textile and light industry materials and products | Bachelor of Technology Master of Technology
+0724 MINING
+072401.00.6 072401.00.7 | Mining and extraction of mineral resources | Bachelor of Engineering Master of Engineering
+072402.00.6 072402.00.7 | Mineral resources processing | Bachelor of Engineering Master of Engineering
+073 ARCHITECTURE AND CONSTRUCTION
+0731 Architecture and Urban Planning
+073101.00.6 073101.00.7 | Architecture | Bachelor of Architecture Master of Architecture
+073102.00.6 073102.00.7 | Municipal economy | Bachelor of Engineering Master of Engineering
+0732 Building and Civil Engineering
+073201.00.6 073201.00.7 | Construction | Bachelor of Engineering Master of Engineering
+08 AGRICULTURE, FORESTRY, FISHERY AND VETERINARY
+081 AGRICULTURAL SCIENCES
+0811 Agronomy and Zootechnics
+081101.00.6 081101.00.7 | Agronomy | Bachelor of Agriculture Master of Agriculture
+081102.00.6 081102.00.7 | Zootechnics | Bachelor of Agriculture Master of Agriculture
+082 FORESTRY
+0821 Forestry
+082101.00.6 082101.00.7 | Forestry | Bachelor of Forestry Master of Forestry
+083 FISHERY
+0831 Fishery
+083101.00.6 083101.00.7 | Fishery | Bachelor of Fishery Master of Fishery
+084 VETERINARY
+0841 Veterinary
+084101.00.6 084101.00.7 | Veterinary medicine | Bachelor of Veterinary Medicine Master of Veterinary Medicine
+09 HEALTH CARE AND SOCIAL WORK
+091 HEALTH CARE
+0911 Stomatology
+091101.00.7 | Stomatology | Doctor of Stomatology
+0912 Medicine
+091201.00.7 | General medicine | M. D. Physician
+091202.00.7 | General medicine in military forces | M. D. Physician
+0916 Pharmacy
+091601.00.6 091601.00.7 | Pharmacy | Bachelor of Pharmacy Master of Pharmacy
+0918 Inter-disciplinary specialties
+091801.00.7 | Public health and health care | Master of Public Health
+092 SOCIAL WORK
+0923 Social work
+092301.00.6 092301.00.7 | Social work | Bachelor of Social Work Master of Social Work
+10 SERVICES
+101 PERSONAL SERVICES
+1014 Sport
+101401.00.6 101401.00.7 | Sport | Bachelor of Sport Master of Sport
+1015 Tourism
+101501.00.6 101501.00.7 | Tourism | Bachelor of Tourism Master of Tourism
+1018 Inter-disciplinary specialties
+101801.00.6 101801.00.7 | Service | Bachelor of Service Master of Service
+103 SECURITY SERVICES
+1031 Military and Defence
+103101.00.6 | Command of units | Bachelor of Military Management
+103101.00.7 | Command of military formations | Master of Military Management
+1032 Protection of Persons and Property
+103201.00.6 103201.00.7 | Security and emergency | Bachelor of Security Service Master of Security Service
+103202.00.6 103202.00.7 | Policing | Bachelor of Policing Master of Policing
+104 TRANSPORT SERVICES
+1041 Transport Services
+104101.00.6 104101.00.7 | Aircraft operation | Bachelor of Transport Service, pilot Master of Transport Service, pilot
+ПЕРЕЧЕНЬ специальностей и квалификаций высшего профессионального образования Республики Армения
+Код /шифр/ | Специальность | Квалификация
+01 ОБРАЗОВАНИЕ
+011 ОБРАЗОВАНИЕ
+0111 Образовательные науки
+011101.00.7 | Образовательные науки | Магистр образования
+011102.00.7 | Теория и история педагогики | Магистр образования
+0112 Дошкольная педагогика
+011201.00.6 011201.00.7 | Дошкольная педагогика | Бакалавр педагогики Магистр педагогики
+0113 Общая педагогика
+011301.00.06 011301.00.07 | Общая педагогика | Бакалавр педагогики Магистр педагогики
+011302.00.06 011302.00.07 | Специальная педагогика | Бакалавр педагогики Магистр педагогики
+0114 Предметно-ориентированная педагогика
+011401.00.06 011401.00.07 | Специализированная педагогика | Бакалавр педагогики Магистр педагогики
+02 ГУМАНИТАРНЫЕ НАУКИ И ИСКУССТВО
+021 ИСКУССТВО
+0211 Аудиовизуальное искусство и медиаискусство
+021101.00.6 021101.00.7 | Аудиовизуальное искусство | Бакалавр искусств Магистр искусств
+021102.00.6 021102.00.7 | Медиаискусство | Бакалавр искусств Магистр искусств
+021103.00.6 021103.00.7 | Киноискусство | Бакалавр искусств Магистр искусств
+0212 Дизайн
+021201.00.6 021201.00.7 | Дизайн | Бакалавр искусств Магистр искусств
+0213 Изобразительное искусство
+021301.00.6 021301.00.7 | Изобразительное искусство | Бакалавр искусств Магистр искусств
+0214 Прикладное искусство
+021401.00.6 021401.00.7 | Прикладное искусство | Бакалавр искусств Магистр искусств
+0215 Музыкальное и исполнительское искусство
+021501.00.6 021501.00.7 | Музыкальное искусство | Бакалавр искусств Магистр искусств
+021502.00.6 021502.00.7 | Исполнительское искусство | Бакалавр искусств Магистр искусств
+021503.00.6 021503.00.7 | Театральное искусство | Бакалавр искусств Магистр искусств
+021504.00.6 021504.00.7 | Хореографическое искусство | Бакалавр искусств Магистр искусств
+0218 Междисциплинарные специальности
+021801.00.6 021801.00.7 | Теория и история искусства | Бакалавр теории и истории искусств Магистр теории и истории искусств
+022 ГУМАНИТАРНЫЕ НАУКИ
+0221 Религиоведение и богословие
+022101.00.6 022101.00.7 | Религиоведение | Бакалавр религиоведения Магистр религиоведения
+022102.00.6 022102.00.7 | Богословие | Бакалавр богословия Магистр богословия
+0222 История и археология
+022201.00.6 022201.00.7 | История | Бакалавр истории Магистр истории
+022202.00.6 022202.00.7 | Археология | Бакалавр истории Магистр истории
+0223 Философия и этика
+022301.00.6 022301.00.7 | Философия | Бакалавр философии Магистр философии
+022302.00.7 | Этика | Магистр философии
+0228 Междисциплинарные специальности
+022801.00.6 022801.00.7 | Востоковедение | Бакалавр востоковедения Магистр востоковедения
+022802.00.6 022802.00.7 | Кавказоведение | Бакалавр кавказоведения Магистр кавказоведения
+022803.00.7 | Арменоведение | Магистр арменоведения
+022804.00.6 022804.00.7 | Антропология | Бакалавр антропологии Магистр антропологии
+023 ФИЛОЛОГИЧЕСКИЕ НАУКИ
+0231 Филология
+023101.00.6 023101.00.7 | Армянский язык и литература | Бакалавр филологии Магистр филологии
+023102.00.6 023102.00.7 | Иностранный язык и литература | Бакалавр филологии Магистр филологии
+0232 Лингвистика
+023201.00.6 023201.00.7 | Лингвистика | Бакалавр филологии Магистр филологии
+03 СОЦИАЛЬНЫЕ НАУКИ, ЖУРНАЛИСТИКА И ИНФОРМАЦИОННЫЕ НАУКИ
+031 СОЦИАЛЬНЫЕ И БИХЕВИОРИСТСКИЕ НАУКИ
+0311 Экономика
+031101.00.6 031101.00.7 | Экономика | Бакалавр экономики Магистр экономики
+0312 Политология
+031201.00.6 031201.00.7 | Политология | Бакалавр политологии Магистр политологии
+0313 Психология
+031301.00.6 031301.00.7 | Психология | Бакалавр психологии Магистр психологии
+0314 Социология
+031401.00.6 031401.00.7 | Социология | Бакалавр социологии Магистр социологии
+0315 Культурология
+031501.00.6 031501.00.7 | Культурология | Бакалавр культурологии Магистр культурологии
+0318 Междисциплинарные специальности
+031801.00.6 031801.00.7 | Международные отношения | Бакалавр международных отношений Магистр международных отношений
+031802.00.6 031802.00.7 | Агроэкономика | Бакалавр экономики Магистр экономики
+031803.00.7 | Европоведение | Магистр европоведения
+031804.00.7 | Связи с общественностью | Магистр по связям с общественностью
+032 ЖУРНАЛИСТИКА И ИНФОРМАЦИОННЫЕ НАУКИ
+0321 Журналистика
+032101.00.6 032101.00.7 | Журналистика | Бакалавр журналистики Магистр журналистики
+0322 Библиотечно-информационные ресурсы и архивоведение
+032201.00.6 032201.00.7 | Библиотечно-информационные ресурсы | Бакалавр информационных наук Магистр информационных наук
+032202.00.6 032202.00.7 | Архивоведение | Бакалавр информационных наук Магистр информационных наук
+04 БИЗНЕС, УПРАВЛЕНИЕ И ПРАВО
+041 БИЗНЕС И УПРАВЛЕНИЕ
+0411 Бухгалтерское дело и налогообложение
+041101.00.6 041101.00.7 | Бухгалтерский учет и налогообложение | Бакалавр экономики Магистр экономики
+0412 Финансы
+041201.00.6 041201.00.7 | Финансы | Бакалавр экономики Магистр экономики
+0413 Менеджмент и управление
+041301.00.6 041301.00.7 | Менеджмент | Бакалавр менеджмента Магистр менеджмента
+0414 Маркетинг
+041401.00.6 041401.00.7 | Маркетинг | Бакалавр менеджмента Магистр менеджмента
+0418 Междисциплинарные специальности
+041801.00.6 041801.00.7 | Агробизнес | Бакалавр экономики Магистр экономики
+042 ПРАВО
+0421 Право
+042101.00.6 042101.00.7 | Юриспруденция | Бакалавр юриспруденции Магистр юриспруденции
+05 ЕСТЕСТВЕННЫЕ НАУКИ, МАТЕМАТИКА И СТАТИСТИКА
+051 БИОЛОГИЧЕСКИЕ НАУКИ
+0511 Биология
+051101.00.6 051101.00.7 | Биология | Бакалавр биологии Магистр биологии
+0512 Биохимия и биофизика
+051201.00.6 051201.00.7 | Биохимия | Бакалавр биологии Магистр биологии
+051202.00.6 051202.00.7 | Биофизика | Бакалавр биологии Магистр биологии
+052 ОКРУЖАЮЩАЯ СРЕДА
+0521 Науки об окружающей среде
+052101.00.6 052101.00.7 | Науки об окружающей среде | Бакалавр окружающей среды Магистр окружающей среды
+0522 Окружающая среда
+052201.00.6 052201.00.7 | Охрана природы и природопользование | Бакалавр окружающей среды Магистр окружающей среды
+053 ХИМИЯ
+0531 Химия
+053101.00.6 053101.00.7 | Химия | Бакалавр химии Магистр химии
+054 НАУКИ O ЗЕМЛЕ
+0541 Геология
+054101.00.6 054101.00.7 | Геология | Бакалавр геологии Магистр геологии
+0542 География
+054201.00.6 054201.00.7 | География | Бакалавр географии Магистр географии
+055 ФИЗИЧЕСКИЕ НАУКИ
+0551 Физика
+055101.00.6 055101.00.7 | Физика | Бакалавр физики Магистр физики
+055102.00.6 055102.00.7 | Радиофизика | Бакалавр физики Магистр физики
+055103.00.7 | Астрономия | Магистр физики
+056 МАТЕМАТИКА И СТАТИСТИКА
+0561 Математика
+056101.00.6 056101.00.7 | Математика | Бакалавр математики Магистр математики
+0562 Статистика
+056201.00.6 056201.00.7 | Статистика | Бакалавр статистики Магистр статистики
+0568 Междисциплинарные специальности
+056801.00.6 056801.00.7 | Механика | Бакалавр механики Магистр механики
+056802.00.6 056802.00.7 | Финансовая математика | Бакалавр финансовой математики Магистр финансовой математики
+06 ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ ТЕХНОЛОГИИ (ИКТ)
+061 ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ ТЕХНОЛОГИИ (ИКТ)
+0611 Информатика и вычислительная техника
+061101.00.6 061101.00.7 | Информатика /компьютерные науки/ | Бакалавр информатики Магистр информатики
+061102.00.6 061102.00.7 | Программная инженерия | Бакалавр информатики Магистр информатики
+061103.00.6 061103.00.7 | Компьютерная инженерия | Бакалавр информатики Магистр информатики
+061104.00.6 061104.00.7 | Информационные системы | Бакалавр информатики Магистр информатики
+061105.00.6 061105.00.7 | Информационные технологии | Бакалавр информатики Магистр информатики
+0619 Компьютерная безопасность
+061901.00.6 061901.00.7 | Информационная безопасность | Бакалавр информационной безопасности Магистр информационной безопасности
+07 ИНЖЕНЕРИЯ, ПРОМЫШЛЕННОСТЬ И СТРОИТЕЛЬСТВО
+071 ИНЖЕНЕРИЯ
+0711 Химическая технология
+071101.00.6 071101.00.7 | Химическая технология | Бакалавр инженерии Магистр инженерии
+0712 Охрана окружающей среды
+071201.00.6 071201.00.7 | Охрана окружающей среды | Бакалавр инженерии Магистр инженерии
+071202.00.6 071202.00.7 | Безопасность жизнедеятельности | Бакалавр инженерии Магистр инженерии
+0713 Энергетика и электротехника
+071301.00.6 071301.00.7 | Энергетика | Бакалавр инженерии Магистр инженерии
+071302.00.6 071302.00.7 | Электротехника | Бакалавр инженерии Магистр инженерии
+0714 Электроника и автоматизация
+071401.00.6 071401.00.7 | Электроника | Бакалавр инженерии Магистр инженерии
+071402.00.6 071402.00.7 | Автоматизация | Бакалавр инженерии Магистр инженерии
+071403.00.6 071403.00.7 | Радиотехника и связь | Бакалавр инженерии Магистр инженерии
+0715 Металлургия и машиностроение
+071501.00.6 071501.00.7 | Металлургия | Бакалавр инженерии Магистр инженерии
+071502.00.6 071502.00.7 | Машиностроение и обработка материалов | Бакалавр инженерии Магистр инженерии
+071503.00.6 071503.00.7 | Машиноведение | Бакалавр инженерии Магистр инженерии
+071504.00.6 071504.00.7 | Энергетическое машиностроение | Бакалавр инженерии Магистр инженерии
+071505.00.6 071505.00.7 | Транспортное машиностроение | Бакалавр инженерии Магистр инженерии
+071506.00.6 071506.00.7 | Приборостроение и метрология | Бакалавр инженерии Магистр инженерии
+0716 Наземные и воздушные транспортные средства
+071601.00.6 071601.00.7 | Транспортные системы | Бакалавр инженерии Магистр инженерии
+071602.00.6 071602.00.7 | Механизация сельскохозяйственного производства, машины и оборудования | Бакалавр инженерии Магистр инженерии
+071603.00.6 071603.00.7 | Авиационная и ракетная техника | Бакалавр инженерии Магистр инженерии
+071604.00.6 071604.00.7 | Зенитно-ракетные комплексы | Бакалавр инженерии Магистр инженерии
+0718 Междисциплинарные специальности
+071801.00.6 071801.00.7 | Материаловедение и технология новых материалов | Бакалавр инженерии Магистр инженерии
+071802.00.6 071802.00.7 | Промышленная инженерия | Бакалавр инженерии Магистр инженерии
+072 ПРОМЫШЛЕННОСТЬ И ТЕХНОЛОГИЯ
+0721 Технология продовольственных продуктов
+072101.00.6 072101.00.7 | Технология продовольственных продуктов | Бакалавр технологии Магистр технологии
+0723 Текстильная промышленность
+072301.00.6 072301.00.7 | Технология материалов и изделий текстильной и легкой промышленности | Бакалавр технологии Магистр технологии
+0724 Недрология
+072401.00.6 072401.00.7 | Горное дело и добыча полезных ископаемых | Бакалавр инженерии Магистр инженерии
+072402.00.6 072402.00.7 | Обогащение полезных ископаемых | Бакалавр инженерии Магистр инженерии
+073 АРХИТЕКТУРА И СТРОИТЕЛЬСТВО
+0731 Архитектура и градостроительство
+073101.00.6 073101.00.7 | Архитектура | Бакалавр архитектуры Магистр архитектуры
+073102.00.6 073102.00.7 | Городское хозяйство | Бакалавр инженерии Магистр инженерии
+0732 Строительство зданий и городская инженерия
+073201.00.6 073201.00.7 | Строительство | Бакалавр инженерии Магистр инженерии
+08 СЕЛЬСКОЕ, ЛЕСНОЕ, РЫБНОЕ ХОЗЯЙСТВО И ВЕТЕРИНАРИЯ
+081 СЕЛЬСКОХОЗЯЙСТВЕННЫЕ НАУКИ
+0811 Агрономия и Зоотехния
+081101.00.6 081101.00.7 | Агрономия | Бакалавр сельского хозяйства Магистр сельского хозяйства
+081102.00.6 081102.00.7 | Зоотехния | Бакалавр сельского хозяйства Магистр сельского хозяйства
+082 ЛЕСНОЕ ХОЗЯЙСТВО
+0821 Лесное хозяйство
+082101.00.6 082101.00.7 | Лесное хозяйство | Бакалавр лесного хозяйства Магистр лесного хозяйства
+083 РЫБНОЕ ХОЗЯЙСТВО
+0831 Рыбное хозяйство
+083101.00.6 083101.00.7 | Рыбное хозяйство | Бакалавр рыбного хозяйства Магистр рыбного хозяйства
+084 ВЕТЕРИНАРИЯ
+0841 Ветеринария
+084101.00.6 084101.00.7 | Ветеринария | Бакалавр ветеринарии Магистр ветеринарии
+09 ЗДРАВООХРАНЕНИЕ И СОЦИАЛЬНАЯ РАБОТА
+091 ЗДРАВООХРАНЕНИЕ
+0911 Стоматология
+091101.00.7 | Стоматология | Врач-стоматолог
+0912 Медицина
+091201.00.7 | Лечебное дело | Врач
+091202.00.7 | Лечебное дело в вооруженных силах | Врач
+0916 Фармация
+091601.00.6 091601.00.7 | Фармация | Бакалавр фармации Магистр фармации
+0918 Междисциплинарные специальности
+091801.00.7 | Общественное здоровье и здравоохранение | Магистр общественного здравоохранения
+092 СОЦИАЛЬНАЯ РАБОТА
+0923 Социальная работа
+092301.00.6 092301.00.7 | Социальная работа | Бакалавр социальной работы Магистр социальной работы
+10 СЛУЖБЫ (СЕРВИС)
+101 СФЕРА ОБСЛУЖИВАНИЯ
+1014 Спорт
+101401.00.6 101401.00.7 | Спорт | Бакалавр спорта Магистр спорта
+1015 Туризм
+101501.00.6 101501.00.7 | Туризм | Бакалавр туризма Магистр туризма
+1018 Междисциплинарные специальности
+101801.00.6 101801.00.7 | Сервис | Бакалавр сервиса Магистр сервиса
+103 СЛУЖБЫ БЕЗОПАСНОСТИ
+1031 Военное дело
+103101.00.6 | Управление подразделениями | Бакалавр военного управления
+103101.00.7 | Управление частями и соединениями | Магистр военного управления
+1032 Охрана граждан и собственности
+103201.00.6 103201.00.7 | Безопасность в чрезвычайных ситуациях | Бакалавр служб безопасности Магистр служб безопасности
+103202.00.6 103202.00.7 | Полицейское дело | Бакалавр полиции Магистр полиции
+104 ТРАНСПОРТНЫЕ УСЛУГИ
+1041 Транспортные услуги
+104101.00.6 104101.00.7 | Летная эксплуатация летательных аппаратов | Бакалавр транспортных услуг, летчик Магистр транспортных услуг, летчик
+(հավելվածը լրաց. 22.01.15 N 49-Ն)
 Հայաստանի Հանրապետության կառավարության աշխատակազմի ղեկավար-նախարար | Դ. Հարությունյան
