@@ -1,4 +1,4 @@
 # Հավելված ՀՀ կառավարության 2012 թվականի նոյեմբերի 8-ի N 1411-Ն որոշման
-Design Safety Requirements to New NPP
-Unit(s)
+Design Safety Requirements to New NPP Unit(s)
+(հավելվածը խմբ. 29.09.16 N 992-Ն)
 Հայաստանի Հանրապետության կառավարության աշխատակազմի ղեկավար | Դ. Սարգսյան
