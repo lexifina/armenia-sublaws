@@ -33,8 +33,8 @@ _______ | ________ | _______________________________
 (վայրը) Place | (ամսաթիվը) Date | (պաշտպանական նամականիշը, ստորագրությունը, պետական կնիքը) Security stamp, signature and official seal
 14. Արտահանման հաստատում Export endorsement: | 15. Փոխադրամիջոցի կամ ինքնաթիռի չվերթի համարը Bill of Lading/Air waybill number
 Բաժինը Block | Քանակը Quantity
-_____________ | _______ | __________ | _______________
-(արտահանման կայանը)Port of export | (ամսաթիվը) Date | (ստորագրությունը) Signature | (պետական կնիքը և անվանումը) Official stamp and title
+_____________ | _______ | ______________ | _______________
+(արտահանման կայանը) Port of export | (ամսաթիվը) Date | (ստորագրությունը) Signature | (պետական կնիքը և անվանումը) Official stamp and title
 A
 B
 C
