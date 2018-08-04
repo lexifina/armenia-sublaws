@@ -91,7 +91,7 @@ QUESTIONNAIRE
 9. | Հասցեն Address
 10. | Հեռախոս/բջջային Telephon/Mobile
 Տվյալների հավաստիության համար պատասխանատու եմ, փոփոխության դեպքում պարտավորվում եմ հայտնել Հայաստանի Հանրապետության կառավարությանն առընթեր քաղաքացիական ավիացիայի գլխավոր վարչությանը:
-I am responsibele for thr authenticity of data above and I must inform the General Departmen of Civil Aviation at Govermment of Republic of Armenia in case of any changes.
+I am responsibele for thr authenticity of data above and I must inform the General Department of Civil Aviation at Government of Republic of Armenia in case of any changes.
 Լրացրեց Applicant: | ___________________________ Ա.Ա.Հ. Name, Last name | _______________ «_____»_____________ 20…թ. /ստորագրություն/ signature/
 Կազմակերպության ղեկավար Head of organization | ___________________________ Ա.Ա.Հ. Name, Last name | _______________ «_____»_____________ 20…թ. /ստորագրություն/ signature/
 Կ.Տ.
