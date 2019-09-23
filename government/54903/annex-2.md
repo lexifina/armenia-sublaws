@@ -8,7 +8,7 @@ PERMIT/CERTIFICATE N
 □ | ԱՅԼ OTHER
 3. Ներմուծող (անունը, ազգանունը և հասցեն) Importer (name and address) | 4. Արտահանող/վերարտահանող (անունը, ազգանունը, հասցեն և երկիրը) Exporter/re-exporter (name, address and country) _____________________ (ստորագրությունը) Signature of the applicant
 3ա. Ներմուծման երկիրը Country of import
-5. Հատուկ պայմաններ Special conditions Կենդանի կենդանիների դեպքում սույն թույլտվությունը (հավաստագիրը) ուժի մեջ է, եթե փոխադրամիջոցը համապատասխանում է փոխադրամիջոցների համար սահմանված CITES-ի ուղեցույցներին կամ օդային փոխադրամիջոցների դեպքում` IATA-ի կենդանի կենդանիների կարգավորումներին For live animals, this permit or certificate is only valid if the transport conditions conform to the CITES Guidelines for transport or, in the case of air transport, to the IATA Live Animals Regulations | 6. ՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ԲՆԱՊԱՀՊԱՆՈՒԹՅԱՆ ՆԱԽԱՐԱՐՈՒԹՅՈՒՆ Հայաստանի Հանրապետություն, ք. Երևան 0010, Հանրապետության հրապարակ, Կառավարության շենք N 3 MINISTRY OF THE NATURE PROTECTION OF THE REPUBLIC OF ARMENIA 3 Government Bldg. , Republic Sq, Yerevan 0010, Republic of Armenia Հեռ.//Tel: +(374 10) 580 711; 585 469 Ֆաքս / Fax: +(374 10) 527 952; 585 469; 583 933;
+5. Հատուկ պայմաններ Special conditions Կենդանի կենդանիների դեպքում սույն թույլտվությունը (հավաստագիրը) ուժի մեջ է, եթե փոխադրամիջոցը համապատասխանում է փոխադրամիջոցների համար սահմանված CITES-ի ուղեցույցներին կամ օդային փոխադրամիջոցների դեպքում` IATA-ի կենդանի կենդանիների կարգավորումներին For live animals, this permit or certificate is only valid if the transport conditions conform to the CITES Guidelines for transport or, in the case of air transport, to the IATA Live Animals Regulations | 6. ՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ՇՐՋԱԿԱ ՄԻՋԱՎԱՅՐԻ ՆԱԽԱՐԱՐՈՒԹՅՈՒՆ Հայաստանի Հանրապետություն, ք. Երևան 0010, Հանրապետության հրապարակ, Կառավարության շենք N 3 MINISTRY OF ENVIRONMENT OF THE REPUBLIC OF ARMENIA 3 Government Bldg. , Republic Sq, Yerevan 0010, Republic of Armenia Հեռ.//Tel: +374 --------, Ֆաքս / Fax: +374 -----------;
 5ա. Գործարքի նպատակը Purpose of the transaction | 5բ. Պաշտպանական նամականիշի համարը Security stamp no.
 7./8. Բույսի կամ կենդանու գիտական (ցեղը և տեսակները) և սովորական անվանումը Scientific name (genus and species) and common name of animal or plant | 9.Նմուշի նկարագիրը` ներառյալ նշագրումների կամ համարների առկայությունը (տարիքը, սեռը, եթե կենդանի կենդանի է) Description of specimens, including identifying marks or numbers (age/sex if live) | 10. Հավելվածի համարը և ծագման աղբյուրը Appendix no. and source | 11. Քանակը (ներառյալ չափի միավորը) Quantity (including unit) | 11ա. Ընդամենը արտահանված/ չափաքանակը Total exported/Quota
 A | 7./8. | 9. | 10. | 11. | 11ա.
@@ -40,4 +40,5 @@ B
 C
 D
 ԹՈՒՅԼՏՎՈՒԹՅՈՒՆ (ՀԱՎԱՍՏԱԳԻՐ) N | CITESERMIT/CERTIFICATE N
+(հավելվածը փոփ., խմբ. 29.08.19 N 1158-Ն)
 Հայաստանի Հանրապետության կառավարության աշխատակազմի ղեկավար | Դ. Սարգսյան
