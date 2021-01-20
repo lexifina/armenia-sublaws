@@ -6,7 +6,7 @@ Country PAYS Երկիրը | Veterinary Certificate to EU Certificat vétérinair
 1.3.Central Competent Authority / Autorité centrale compétente /Կենտրոնական իրավասու մարմինը
 1.4.Local Competent Authority / Autorité locale compétente /Տեղական իրավասու մարմինը
 1.5.Consignee / Destinataire /Ստացող Name / Nom/Անուն: Address / Adresse /Հասցե: Postal code / Code postal /Փոստային ինդեքս: Tel No./ Tél /Հեռ.:
-1.7.Country of origin /Pays d'origine /Ծագման երկիր | ISO code: Code ISO ԻՍՈ կոդ: | 1.9.Country of destination / Pays de destination /Ստացող երկիր | ISO code CodeISO ԻՍՈ ոդ
+1.7.Country of origin /Pays d'origine /Ծագման երկիր | ISO code: Code ISO ԻՍՈ կոդ: | 1.9.Country of destination / Pays de destination /Ստացող երկիր | ISO code CodeISO ԻՍՈ կոդ
 1.11.Place of origin / Lieu d'origine /Ծագման երկիր: Name / Nom /Անուն: Address / Adresse /Հասցե:
 1.13.Place of loading / Lieu de chargement/ Բեռնման վայրը | 1.14.Date of departure / Date du départ /Առաքման ամսաթիվ
 1.15.Means of transport / Moyens de transport/Տրանսպորտ Documentary references/Référence documentaire/ Փաստաթղթային հղումներ | 1.16.Entry BIP in EU / PIF d'entrée dans l'UE / ԵՄ Սահմանային կետ
