@@ -95,6 +95,7 @@
 042101.00.6 042101.00.7 | Իրավագիտություն | Իրավագիտության բակալավր Իրավագիտության մագիստրոս
 0428 Միջոլորտային մասնագիտություններ
 042801.00.6 042801.00.7 | Դատական փորձաքննություն | Դատական փորձաքննության բակալավր Դատական փորձաքննության մագիստրոս
+042802.00.7 | Իրավական ուսումնասիրություններ | Իրավական ուսումնասիրությունների մագիստրոս
 05 ԲՆԱԿԱՆ ԳԻՏՈՒԹՅՈՒՆՆԵՐ, ՄԱԹԵՄԱՏԻԿԱ ԵՎ ՎԻՃԱԿԱԳՐՈՒԹՅՈՒՆ
 051 ԿԵՆՍԱԲԱՆԱԿԱՆ ԳԻՏՈՒԹՅՈՒՆՆԵՐ
 0511 Կենսաբանություն
@@ -302,7 +303,7 @@ Code /decipher/ | Specialty | Qualification
 031501.00.6 031501.00.7 | Cultural studies | Bachelor of Cultural Studies Master of Cultural Studies
 0318 Inter-disciplinary specialties
 031801.00.6 031801.00.7 | International relations | Bachelor of International Relations Master of International Relations
-031802.00.6 031802.00.7 | Agrieconomics | Bachelor of Economics Master of Economics
+031802.00.6 031802.00.7 | Agricultural Economics | Bachelor of Economics Master of Economics
 031803.00.7 | European studies | Master of European Studies
 031804.00.6 031804.00.7 | Public relations | Bachelor of Public Relations Master of Public Relations
 032 JOURNALISM AND INFORMATION SCIENCES
@@ -329,6 +330,7 @@ Code /decipher/ | Specialty | Qualification
 042101.00.6 042101.00.7 | Jurisprudence | Bachelor of Laws Master of Laws
 0428 Inter-disciplinary specialties
 042801.00.6 042801.00.7 | Forensic science | Bachelor of Forensic science Master of Forensic science
+042802.00.7 | Legal Studies | Master of Legal Studies
 05 NATURAL SCIENCES, MATHEMATICS AND STATISTICS
 051 BIOLOGICAL SCIENCES
 0511 Biology
@@ -380,7 +382,7 @@ Code /decipher/ | Specialty | Qualification
 071101.00.6 071101.00.7 | Chemical engineering | Bachelor of Engineering Master of Engineering
 0712 Environmental Protection Technology
 071201.00.6 071201.00.7 | Environmental protection | Bachelor of Engineering Master of Engineering
-071202.00.6 071202.00.7 | Life safety | Bachelor of Engineering Master of Engineering
+071202.00.6 071202.00.7 | Safety of Vital Activity | Bachelor of Engineering Master of Engineering
 0713 Energy Engineering and Electrical Engineering
 071301.00.6 071301.00.7 | Power engineering | Bachelor of Engineering Master of Engineering
 071302.00.6 071302.00.7 | Electrical Engineering | Bachelor of Engineering Master of Engineering
@@ -421,9 +423,9 @@ Code /decipher/ | Specialty | Qualification
 073201.00.6 073201.00.7 | Construction Engineering | Bachelor of Engineering Master of Engineering
 08 AGRICULTURE, FORESTRY, FISHERY AND VETERINARY
 081 AGRICULTURAL SCIENCES
-0811 Agronomy and Zootechnics
+0811 Crop and livestock production
 081101.00.6 081101.00.7 | Agronomy | Bachelor of Agriculture Master of Agriculture
-081102.00.6 081102.00.7 | Zootechnics | Bachelor of Agriculture Master of Agriculture
+081102.00.6 081102.00.7 | Animalhusbandry | Bachelor of Agriculture Master of Agriculture
 082 FORESTRY
 0821 Forestry
 082101.00.6 082101.00.7 | Forestry | Bachelor of Forestry Master of Forestry
@@ -563,6 +565,7 @@ Code /decipher/ | Specialty | Qualification
 042101.00.6 042101.00.7 | Юриспруденция | Бакалавр юриспруденции Магистр юриспруденции
 0428 Междисциплинарные специальности
 042801.00.6 042801.00.7 | Судебная экспертиза | Бакалавр судебной экспертизы Магистр судебной экспертизы
+042802.00.7 | Юридические исследования | Магистр юридических исследований
 05 ЕСТЕСТВЕННЫЕ НАУКИ, МАТЕМАТИКА И СТАТИСТИКА
 051 БИОЛОГИЧЕСКИЕ НАУКИ
 0511 Биология
@@ -655,9 +658,9 @@ Code /decipher/ | Specialty | Qualification
 073201.00.6 073201.00.7 | Строительная инженерия | Бакалавр инженерии Магистр инженерии
 08 СЕЛЬСКОЕ, ЛЕСНОЕ, РЫБНОЕ ХОЗЯЙСТВО И ВЕТЕРИНАРИЯ
 081 СЕЛЬСКОХОЗЯЙСТВЕННЫЕ НАУКИ
-0811 Агрономия и Зоотехния
+0811 Производство сельскохозяйственных культур и выращивание скота
 081101.00.6 081101.00.7 | Агрономия | Бакалавр сельского хозяйства Магистр сельского хозяйства
-081102.00.6 081102.00.7 | Зоотехния | Бакалавр сельского хозяйства Магистр сельского хозяйства
+081102.00.6 081102.00.7 | Животноводство | Бакалавр сельского хозяйства Магистр сельского хозяйства
 082 ЛЕСНОЕ ХОЗЯЙСТВО
 0821 Лесное хозяйство
 082101.00.6 082101.00.7 | Лесное хозяйство | Бакалавр лесного хозяйства Магистр лесного хозяйства
@@ -702,5 +705,5 @@ Code /decipher/ | Specialty | Qualification
 104 ТРАНСПОРТНЫЕ УСЛУГИ
 1041 Транспортные услуги
 104101.00.6 104101.00.7 | Летная эксплуатация летательных аппаратов | Бакалавр транспортных услуг, летчик Магистр транспортных услуг, летчик
-(հավելվածը լրաց. 22.01.15 N 49-Ն, 19.10.17 N 1326-Ն, 26.07.18 N 833-Ն, խմբ., լրաց. 30.10.20 N 1748-Ն)
+(հավելվածը լրաց. 22.01.15 N 49-Ն, 19.10.17 N 1326-Ն, 26.07.18 N 833-Ն, խմբ., լրաց. 30.10.20 N 1748-Ն, լրաց., փոփ., խմբ. 07.10.21 N 1656-Ն)
 Հայաստանի Հանրապետության կառավարության աշխատակազմի ղեկավար-նախարար | Դ. Հարությունյան
