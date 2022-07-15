@@ -35,43 +35,36 @@
 (2-րդ կետը լրաց. 20.04.17 N 460-Ն, խմբ. 30.06.22 N 1008-Ն)
 Հայաստանի Հանրապետության կառավարության աշխատակազմի ղեկավար | Դ. Սարգսյան
 Ձև N 1
-ԴԻՄՈՒՄ-ՀԱՐՑԱԹԵՐԹԻԿ ՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ՄՈՒՏՔԻ ՎԻԶԱ ՍՏԱՆԱԼՈՒ ՀԱՄԱՐ APPLICATION FOR ENTRY VISA TO THE REPUBLIC OF ARMENIA
-Լուսանկար Photo 35x45mm
-1. Ազգանուն (ինչպես անձնագրում) / Sսrname (As in Passpօrt) | 8. Անձնագրի համար / Passport Number
-/ /
-2.Անուն (ինչպես անձնագրում) / Name (As in Passpօrt) | 9. Երբ է տրվել / Date of Issue (օր/ամիս/տարի) (dd/mm/yyyy)
-/ /
-3. Այլ անուններ / Other Names | 10. Վավերական է մինչև / Valid until (օր/ամիս/տարի) (dd/mm/yyyy)
-/ /
-4. Ծննդյան օր, ամիս, տարեթիվ / Date of Birtհ (օր/ամիս/տարի) (dd/mm/yyyy) | 11. Անձնագրի տեսակ / Type of Passport Դիվանագիտական / Diplomatic Ճամփորդական փաստաթուղթ / Travel Docսment ……………………………………………………
-/ /
-Սովորական Ordinary | / | Ծառայողական (պաշտոնական, հատուկ Service ( Official, Special)
-5. Ծննդյան վայր / Place օf Birtհ
-6. Սեռը/ Sex | Արական / Male Իգական / Female
-7. Զբաղմունք / Occսpatiօn | 12. Քաղաքացիություն / Nationality
-13. Մշտական բնակության հասցե / Address օf Permanent Residence | 14. Հեռախոսահամար / Telephone
-15. Հայաստանում գտնվելու ընթացքում բնակության հասցե / Address During Yօսr Stay in Armenia
-16. Դուք երբևէ դատապարտված եղե՞լ եք որևէ հանցագործության համար Have you ever been convicted fօr any offense օr crime?
-/ | Այո / Yes | Ոչ / No
-17. 16 տարեկանից ցածր տարիքի երեխաներ, որոնք նշված են Ձեր անձնագրում և ճանապարհորդում են Ձեզ հետ / Children under 16 Included in Your Passport and Travelling witհ You (անուն, ազգանուն, ծննդյան օր, ամիս, տարեթիվ, քաղաքացիություն / Name, Surname, Date օf Birth, Natiօnality)
-18. Հրավիրող անձի անունը և ազգանունը կամ կազմակերպության անվանումը, հասցեն և հեռախոսահամարը (առկայության դեպքում)/ Surname, first name, telephone number and the address of the inviting person or organization (if applicable)
-19. Այցելության նպատակ / Purpose of Visit
-Պաշտոնական / Official | Գործնական / Business | Անձնական / / Private | Զբոսաշրջություն / Tourism | Այլ (նշել) / Other (specify) ….……………………
-20. Մուտքերի քանակ / Number of Entries
-Եզակի / Single | Բազմակի / Mսltiple
-21. Հայաստան առաջին անգամ մուտք գործելու նախատեսվող օր, ամիս, տարեթիվ / Intended date of the first entry to Armenia (օր/ամիս/տարի) (dd/mm/yyyy) | 22. Առաջին անգամ մուտքից հետո Հայաստանից նախատեսվող ելքի օր, ամիս, տարեթիվ / Intended date of departure from Armenia after the first entry (օր/ամիս/տարի) (dd/mm/yyyy)
-/ /
-/ /
-23. Վերջին 5 տարում այցելած երկրները / Countries visited in last 5 years
-24. Այլ պետությունների քաղաքացիություն կամ բնակության իրավունք/ Nationality (citizenship) or residence permit in other countries
-25. Հաստատում եմ, որ սույն դիմումում ներկայացված տեղեկատվությունը ճիշտ է / I certify that tհe information given in this application is correct Դիմողի ստորագրությունը / Applicant's Signature | Ամսաթիվ / Date | (օր/ամիս/տարի) (dd/mm/yyyy)
-/ /
-Ծառայողական նշումներ / For Official use Only
+ԴԻՄՈՒՄ-ՀԱՐՑԱԹԵՐԹԻԿ ՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ՄՈՒՏՔԻ ՎԻԶԱ ՍՏԱՆԱԼՈՒ ՀԱՄԱՐ APPLICATION FOR ENTRY VISA TO THE REPUBLIC OF ARMENIA | Սահմանին դիմելու դեպքում պարտադիր չէ Not required when applying at the border
+1. | Ազգանուն Surname (Family Name) | 8. | Անձնագրի համար Passport Number
+2. | Անուն First Name (Given Name) | 9. | Երբ է տրվել (օր/ամիս/տարի) Date of Issue (dd/mm/yyyy)
+3. | Այլ անուններ Other Names | 10. | Վավերական է մինչև (օր/ամիս/տարի) Valid Until (dd/mm/yyyy)
+4. | Ծննդյան ամսաթիվ (օր/ամիս/տարի) Date of Birth (dd/mm/yyyy) | 11. | Անձնագրի տեսակ Type of Passport
+Սովորական □ Ordinary Ծառայողական (պաշտոնական, հատուկ) □ Service (Official, Special) Դիվանագիտական □ Diplomatic Ճամփորդական փաստաթուղթ □ Travel Document Այլ (նշել) □ Other (Specify)
+5. | Ծննդյան վայր Place of Birth
+6. | Սեռը Sex
+Արական Իգական □ Male □ Female
+7. | Զբաղմունք Occupation | 12. | Քաղաքացիություն Nationality (Citizenship)
+13. | Մշտական բնակության հասցե Address of Permanent Residence | 14. | Հեռախոսահամար / Էլ. փոստ Telephone Number / E-mail
+15. | Հայաստանում գտնվելու ընթացքում բնակության հասցե Address during your stay in Armenia
+16. | Հրավիրող անձի ազգանունը և անունը կամ կազմակերպության անվանումը, հասցեն և հեռախոսահամարը (առկայության դեպքում) Surname, first name, telephone number and the address of the inviting person or organization (if applicable)
+17. | Այցելության նպատակ Purpose of visit
+-----------------------------------------------------------------------------------------------------------------------------
+Պաշտոնական □ Official | Գործնական □ Business | Անձնական □ Private | Զբոսաշրջություն □ Tourism
+Այլ (նշել) □ Other (specify)
+18. | Մուտքերի քանակ Number of Entries | Եզակի Բազմակի □ Single □ Multiple
+19. | Հայաստան առաջին անգամ մուտք գործելու նախատեսվող օր, ամիս, տարեթիվ Intended date of the first entry to Armenia | 20. | Առաջին անգամ մուտքից հետո Հայաստանից նախատեսվող ելքի օր, ամիս, տարեթիվ Intended date of departure from Armenia after the first entry
+(օր/ամիս/տարի) (dd/mm/yyyy) | (օր/ամիս/տարի) (dd/mm/yyyy)
+21. | Վերջին 5 տարում այցելած երկրները Countries visited in last 5 years
+22. | Այլ պետությունների քաղաքացիություն կամ բնակության իրավունք Nationality (citizenship) or residence permit in other countries
+23. | Հաստատում եմ, որ սույն դիմումում ներկայացված տեղեկատվությունը ճիշտ է I certify that tհe information given in this application is correct
+Դիմողի ստորագրությունը Applicant's Signature | Ամսաթիվ Date (օր/ամիս/տարի) (dd/mm/yyyy)
+Ծառայողական նշումներ
+For official use only
 1. Վիզայի համարը | 2. Վիզայի տեսակը | 3. Վիզայի կոդը
-4. Վիզան տալու օր, ամիս, տարեթիվ ______ / _______ / _______ | 5.Վիզայի վավերականության ժամկետը _____ / _____ / _____ -ից մինչև _____ / _____ / _____
-6. Վիզայի տրամադրման համար վճարված պետական տուրքի չափը ________________________________
-7. ՀՀ մուտքի վիզա տրամադրող պաշտոնատար անձի ստորագրությունը
-(ձևը փոփ. 20.04.17 N 460-Ն, խմբ. 30.06.22 N 1008-Ն)
+4. Վիզան տալու օրը, ամիսը, տարեթիվը (օր/ամիս/տարի) | 5. Վիզայի վավերականության ժամկետը ___/___/_____-ից մինչև ___/___/_____
+6. Վճարված պետական տուրքի չափը | 7. ՀՀ մուտքի վիզա տրամադրող պաշտոնատար անձի ստորագրությունը
+(ձևը փոփ. 20.04.17 N 460-Ն, խմբ. 30.06.22 N 1008-Ն, 14.07.22 N 1060-Ն)
 Ձև N 2
 Դ Ի Մ ՈՒ Մ
 ՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ՄՈՒՏՔԻ ՎԻԶԱ ՍՏԱՆԱԼՈՒ ՀԱՄԱՐ
@@ -103,4 +96,4 @@
 6. Վիզայի տրամադրման համար վճարված պետական տուրքի չափը ________________________________
 7. ՀՀ մուտքի վիզա տրամադրող պաշտոնատար անձի ստորագրությունը
 (ձևը լրաց. 20.04.17 N 460-Ն, խմբ. 30.06.22 N 1008-Ն)
-(հավելվածը խմբ. 26.05.11 N 729-Ն, լրաց. 26.07.12 N 941-Ն, խմբ., փոփ., լրաց. 20.04.17 N 460-Ն, 30.06.22 N 1008-Ն)
+(հավելվածը խմբ. 26.05.11 N 729-Ն, լրաց. 26.07.12 N 941-Ն, խմբ., փոփ., լրաց. 20.04.17 N 460-Ն, 30.06.22 N 1008-Ն, խմբ. 14.07.22 N 1060-Ն)
