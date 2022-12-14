@@ -1,0 +1,1 @@
+# Հավելված 1 Հայաստանի Հանրապետության տարածքային կառավարման և ենթակառուցվածքների նախարարի 2022 թվականի հունիսի 1-ի N 10-Ն հրամանի Annex 1 of the order 10-N of the Minister of Territorial Administration and Infrastructure of the Republic of Armenia 01.06.2022
