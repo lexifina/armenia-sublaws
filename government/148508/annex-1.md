@@ -139,7 +139,8 @@
 53. Իմունականխարգելման ծառայությունների (բուժաշխատողների կրթում աշխատանքային վայրում, իմունականխարգելման գործընթացի շարունակական մշտադիտարկում, հանրային իրազեկում, կառավարելի վարակիչ հիվանդությունների համաճարակաբանական հսկողություն, պատվաստանյութերի արդյունավետ կառավարում և այլն) գործառնական ծախսերն ինտեգրված են Հայաստանի Հանրապետության պետական բյուջեի առողջապահության ոլորտի այլ ծրագրերում, ինչպես նաև իրականացվում են միջազգային գործընկեր կազմակերպությունների աջակցությամբ:
 54. Իմունականխարգելման ազգային ծրագրի ֆինանսավորման հիմնական աղբյուրը Հայաստանի Հանրապետության պետական բյուջեից հատկացումներն են` 100%-ով պատվաստանյութերի ձեռքբերման ընդհանուր ծախսերի համար, եթե հաշվի չեն առնվում առողջապահության ոլորտի այլ բյուջետային ծախսերում ինտեգրված ծախսերը (առողջության առաջնային պահպանման ոլորտում բուժաշխատողների աշխատավարձեր, կառավարելի վարակիչ հիվանդությունների համաճարակաբանական դիտարկման, պատվաստանյութերի պահպանման սառնարանային տնտեսության, շենք-շինությունների պահպանման ծախսեր, մասնագետների շարունակական կրթման և հմտությունների զարգացման և այլն):
 55. Իմունականխարգելման ազգային ծրագրի ֆինանսական միջոցների պահանջարկի կանխատեսումները կապված են Պատվաստումների ազգային օրացույցում նոր պատվաստանյութերի ներդրման հետ:
-56. Պատվաստումների միջոցով նոր հիվանդությունների վերահսկման նպատակով նախատեսվում է 2022 թվականից ապահովել Պատվաստումների ազգային օրացույցում ջրծաղկի դեմ պատվաստանյութի փուլային ներդրումը:
+56. Պատվաստումների միջոցով նոր հիվանդությունների վերահսկման նպատակով նախատեսվում է 2024 թվականից ապահովել Պատվաստումների ազգային օրացույցում ջրծաղկի դեմ պատվաստանյութի փուլային ներդրումը:
+(56-րդ կետը փոփ. 29.12.22 N 2063-Ն)
 57. Իմունականխարգելման ազգային ծրագրի կայուն ֆինանսավորման ռազմավարությունն ուղղված կլինի ֆինանսավորման այլընտրանքային աղբյուրների ներգրավմանը, այդ թվում` պետություն–մասնավոր համագործակցության խթանմանը:
 ԲԱԺԻՆ 2
 ՊԱՏՎԱՍՏՈՒՄՆԵՐԻ ԱԶԳԱՅԻՆ ՕՐԱՑՈՒՅՑ ԵՎ ՆԿԱՏԱՌՈՒՄՆԵՐ
@@ -321,7 +322,7 @@ a été vacciné(e) ou a reçu des agents prophylactiques à la date indiquée c
 conformément au Réglement sanitaire international.
 -------------------------------------------------------------------------------------------------------------
 Պատվաստանյութը կամ կանխարգելումը Vaccine or prophylaxis Vaccin ou agent prophylactique | Ամսաթիվը Date Date | Վերահսկող բուժաշխատողի ստորագրությունը և մասնագիտությունը Signature and professional status of supervising clinician Signature et titre du clinicien responsable
-Պատվաստանյութի/ կանխարգելիչ միջոցի արտադրողը և սերիան Manufacturer and batch no. of vaccine or prophylaxis Fabricant du vaccin ou de l'agent prophylactique et numéro du lot | Վկայականը վավեր է սկիզբը մինչև Certificate valid from: until: Certificat valable à partir du : jusqu'au : | Պատվաստում/ կանխարգելիչ միջոց իրականացնող կազմակերպության կնիքը Official stamp of the administering centre Cachet officiel du centre habilité * Voir
+Պատվաստանյութի/ կանխարգելիչ միջոցի արտադրողը և սերիան Manufacturer and batch no. of vaccine or prophylaxis Fabricant du vaccin ou de l'agent prophylactique et numռéo du lot | Վկայականը վավեր է սկիզբը մինչև Certificate valid from: until: Certificat valable à partir du : jusqu'au : | Պատվաստում/ կանխարգելիչ միջոց իրականացնող կազմակերպության կնիքը Official stamp of the administering centre Cachet officiel du centre habilité * Voir
 ԱՅԼ ՊԱՏՎԱՍՏՈՒՄՆԵՐ/OTHER VACCINATIONS/AUTRES VACCINATIONS
 Հիվանդության անվանումը Disease targeted Maladie visée | Ամսաթիվը Date Date | Արտադրողի անվանումը, պատվաստանյութի անվանումը և սերիան Manufacturer, brand name and batch no. of vaccine Fabricant du vaccin, marque, et numéro du lot
 Բուստեր դեղաչափի (կրկնապատվաստման) ամսաթիվը Next booster (date): Prochain rappel (date): | Պաշտոնական կնիքը և ստորագրությունը Official stamp and signature Cachet officiel et signature
@@ -389,5 +390,6 @@ RENSEIGNEMENTS DESTINÉS AUX MÉDECINS
 2. Si la vaccination est contre-indiquée pour raison médicale, le médecin doit fournir par écrit au voyageur un avis circonstancié, dont l'autorité sanitaire aux frontiéres doit tenir compte.
 3. Les exigences des pays en matiére de vaccination sont publiées par l'OMS dans la brochure Voyages internationaux et santé.
 4. Le médecin doit toujours tenir compte du fait que son patient peut être atteint d'une maladie liée à un voyage.
+(հավելվածը փոփ. 29.12.22 N 2063-Ն)
 Հայաստանի Հանրապետության վարչապետի աշխատակազմի ղեկավար | Է. Աղաջանյան
 22.12.2020 ՀԱՎԱՍՏՎԱԾ Է ԷԼԵԿՏՐՈՆԱՅԻՆ ՍՏՈՐԱԳՐՈՒԹՅԱՄԲ
