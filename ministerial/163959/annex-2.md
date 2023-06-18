@@ -1,2 +1,3 @@
-# Հավելված 2 Հայաստանի Հանրապետության տարածքային կառավարման և ենթակառուցվածքների նախարարի 2022 թվականի հունիսի 1-ի N 10-Ն հրամանի Annex 2 of the order 10-N of the Minister of Territorial Administration and Infrastructure of the Republic of Armenia 01.06.2022
+# Հավելված N 2 Հայաստանի Հանրապետության տարածքային կառավարման և ենթակառուցվածքների նախարարի 2023 թվականի մայիսի 5-ի N 3-Ն հրամանի Annex N 2 Of the order 3-N of the Minister of Territorial Administration and Infrastructure of the Republic of Armenia 5 may 2023
+(հավելվածը խմբ. 05.05.23 N 3-Ն)
 Պաշտոնական հրապարակման օրը՝ 13 հունիսի 2022 թվական:
