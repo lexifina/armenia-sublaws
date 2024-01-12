@@ -44,7 +44,7 @@ I. Personal details
 Name, forename
 Sex
 Date and place of birth
-Nationality/ies
+Nationality
 II. Education and academic and other qualifications
 III. Relevant professional activities
 a. Description of judicial activities
@@ -75,12 +75,12 @@ XI. Please confirm that you will take up permanent residence in Strasbourg if el
 INFORMATION FOR ADMINISTRATIVE USE ONLY BY THE PARLIAMENTARY ASSEMBLY: Complete address (No, Street, Postal Code, Town, Country): Telephones: Professional: Personal (optional): Mobile (optional): E-mail: Fax (optional):
 NOM, PRÉNOM
 Curriculum vitae
-Pour un candidat à l'élection à la Cour europռenne des droits de l'homme (Au titre de la République d'Arménie)
+Pour un candidat à l'élection à la Cour européenne des droits de l'homme (Au titre de la République d'Arménie)
 I. Etat civil
 Nom, prénom
 Sexe
 Date et lieu de naissance
-Nationalité(s)
+Nationalité
 II. Etudes et diplômes, et autres qualifications
 III. Activités professionnelles pertinentes
 a. Description des activités judiciaires
@@ -109,5 +109,6 @@ IX. Au cas où vous n'auriez pas le niveau de compétence linguistique requis po
 X. Autres éléments pertinents
 XI. Veuillez confirmer que vous vous installeriez de maniére permanente à Strasbourg au cas où vous seriez élu(e) juge à la Cour.
 INFORMATIONS DESTINEES A L'ADMINISTRATION DE L'ASSEMBLEE PARLEMENTAIRE UNIQUEMENT: Adresse compléte (n0, voie, code postal, ville, pays): Téléphones: Professionnel: Privé (facultatif): Mobile (facultatif): E-mail: Fax (facultatif):
+(հավելվածը փոփ. 11.01.24 N 22-Ն)
 Հայաստանի Հանրապետության վարչապետի աշխատակազմի ղեկավար | Ա. Հարությունյան
 31.08.2023 ՀԱՎԱՍՏՎԱԾ Է ԷԼԵԿՏՐՈՆԱՅԻՆ ՍՏՈՐԱԳՐՈՒԹՅԱՄԲ
