@@ -4,6 +4,7 @@
 1. Արբիտրների լիազորված ինստիտուտ (Chartered Institute of Arbitrators)
 2. Վեճերի արդյունավետ լուծման կենտրոն (Centre of Effective Dispute Resolution)
 3. Հաշտարարների հասարակություն (The Society of Mediators)
-4. Մեդիտացիայի միջազգային ինստիտուտ (International Mediation Institute)
-5. Վեճերի արդյունավետ լուծման կենտրոնի ակադեմիա
+4. Հաշտարարության միջազգային ինստիտուտ (International Mediation Institute)
+5. Վեճերի արդյունավետ լուծման կենտրոնի ակադեմիա:
+(հավելվածը խմբ. 10.05.24 N 281-Ն)
 Պաշտոնական հրապարակման օրը՝ 22 հունիսի 2023 թվական:
