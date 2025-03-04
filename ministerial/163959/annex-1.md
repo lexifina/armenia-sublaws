@@ -1,2 +1,6 @@
-# Հավելված N 1 Հայաստանի Հանրապետության տարածքային կառավարման և ենթակառուցվածքների նախարարի 2023 թվականի մայիսի 5-ի N 3-Ն հրամանի Annex N 1 Of the order 3-N of the Minister of Territorial Administration and Infrastructure of the Republic of Armenia 5 may 2023
-(հավելվածը խմբ. 05.05.23 N 3-Ն)
+# Հավելված N 1 ՀՀ տարածքային կառավարման և ենթակառուցվածքների նախարարի 2022 թվականի հունիսի 1-ի N 10-Ն հրամանի "Annex N 1 of the order N 10-N of the Minister of Territorial Administration and Infrastructure of the Republic of Armenia dated 01 June 2022
+ԵՎՐՈՊԱԿԱՆ ՄԻՈՒԹՅԱՆ ԹՌԻՉՔՆԵՐԻ ԱՆՎՏԱՆԳՈՒԹՅԱՆ ԳՈՐԾԱԿԱԼՈՒԹՅԱՆ «ԹՌԻՉՔԱՅԻՆ ՊԻՏԱՆԻՈՒԹՅԱՆ ՊԱՀՊԱՆՈՒՄ»
+ԿԱՆՈՆԱԿԱՐԳ
+ՓԱՐՏ-Մ (PART-M)
+(վերնագիրը խմբ. 30.01.25 N 06-Ն)
+(հավելվածը խմբ. 05.05.23 N 3-Ն, 30.01.25 N 06-Ն)
