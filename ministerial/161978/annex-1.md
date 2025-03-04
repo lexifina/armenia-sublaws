@@ -1,1 +1,0 @@
-# Հավելված 1 Հայաստանի Հանրապետության տարածքային կառավարման և ենթակառուցվածքների նախարարի 2022 թվականի ապրիլի 8-ի N 8-Ն հրամանի Annex 1 of the order 8-N of the Minister of Territorial Administration and Infrastructure of the Republic of Armenia 08.04.2022
