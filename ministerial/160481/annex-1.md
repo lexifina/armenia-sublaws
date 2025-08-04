@@ -1,1 +1,1 @@
-# Հավելված Մաս 1 Հայաստանի Հանրապետության տարածքային կառավարման և ենթակառուցվածքների նախարարի 2022 թվականի փետրվարի 11-ի թիվ 3-Ն հրամանի ANNEX Part-1 of order 3-N of the Minister of Territorial Administration and Infrastructure of the Republic of Armenia by 11-th February 2022
+# Հավելված Մաս 1 ՀՀ տարածքային կառավարման և ենթակառուցվածքների նախարարի 2022 թվականի փետրվարի 11-ի N 3-Ն հրամանի ANNEX Part 1 of order N 3-N of the Minister of the Territorial Administration and Infrastructure of the Republic of Armenia by 11th February 2022
