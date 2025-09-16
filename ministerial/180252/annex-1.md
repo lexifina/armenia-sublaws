@@ -1,2 +1,5 @@
-# Հավելված Հայաստանի Հանրապետության տարածքային կառավարման և ենթակառուցվածքների նախարարի 2023 թվականի հունիսի 28-ի N 07-Ն հրամանի Annex of the order 07-N of the Minister of Territorial Administration and Infrastructure of the Republic of Armenia Dated 28 June 2023
+# Հավելված ՀՀ տարածքային կառավարման և ենթակառուցվածքների նախարարի 2023 թվականի հունիսի 28-ի N 07-Ն հրամանի Annex of the order N 07-N of the Minister of Territorial Administration and Infrastructure of the Republic of Armenia dated 28 June 2023
+ԵՎՐՈՊԱԿԱՆ ՄԻՈՒԹՅԱՆ ԹՌԻՉՔՆԵՐԻ ԱՆՎՏԱՆԳՈՒԹՅԱՆ ԳՈՐԾԱԿԱԼՈՒԹՅԱՆ «ԹՌԻՉՔԱՅԻՆ ՊԻՏԱՆԻՈՒԹՅԱՆ ԼՐԱՑՈՒՑԻՉ ՊԱՀԱՆՋՆԵՐ» ԿԱՆՈՆԱԿԱՐԳԵՐ
+ՓԱՐՏ-26 (PART-26)
+(հավելվածը խմբ. 04.04.25 N 11-Ն)
 Պաշտոնական հրապարակման օրը՝ 11 հուլիսի 2023 թվական:
