@@ -13,21 +13,20 @@
 4. Վկայականի վրա պետք է լինի Հայաստանի Հանրապետության միջազգային տարբերանշանը՝ «AM» և վկայականը տրամադրող լիազոր մարմնի անվանումը։
 5. Վկայականի օրինակելի ձևը սահմանվում է՝ համաձայն ձևի։
 Ձև
-դիմերես
-AM | ՀՀ տարածքային կառավարման և ենթակառուցվածքների նախարարություն
-ՄԻՋԱԶԳԱՅԻՆ ԱՎՏՈՄՈԲԻԼԱՅԻՆ ՓՈԽԱԴՐՈՒՄՆԵՐԻ ՄԱՍՆԱԳԻՏԱԿԱՆ ՈՐԱԿԱՎՈՐՄԱՆ ՎԿԱՅԱԿԱՆ
+AM | ՀՀ տարածքային կառավարման և ենթակառուցվածքների նախարարություն Ministry of Territorial Administration And Infrastructure
+ՄԻՋԱԶԳԱՅԻՆ ԱՎՏՈՄՈԲԻԼԱՅԻՆ ՓՈԽԱԴՐՈՒՄՆԵՐԻ ՄԵՆԵՋԵՐԻ
+ՄԱՍՆԱԳԻՏԱԿԱՆ ՈՐԱԿԱՎՈՐՄԱՆ ՎԿԱՅԱԿԱՆ
+CERTIFICATE OF PROFESSIONAL COMPETENCE (CPC) FOR THE ROAD
+TRANSPORT MANAGER
 N ____________
-Տարածքային կառավարման և ենթակառուցվածքների նախարարությունը սույնով հավաստում է, որ _______________________________________________________ը՝ (անունը, հայրանունը, ազգանունը) ծնված _____________________________________, դրական արդյունքով հանձնել է (օրը, ամիսը, տարեթիվը, վայրը) միջազգային ավտոմոբիլային փոխադրումների մասնագիտական որակավորման վկայական ստանալու համար անհրաժեշտ քննական թեստերը _____ _____________՝ ՏՆԵԿ բազմակողմ քվոտայի շրջանակներում իրականացվող միջազգային ավտոճանապարհային բեռնափոխադրումների նկատմամբ կիրառվող Որակի խարտիայի դրույթներին համապատասխան։ Սույն վկայականը Որակի խարտիայի II գլխի 4-րդ հոդվածում նշված մասնագիտական որակավորման մասին վկայող բավարար ապացույց է։ Տրվել է՝ _____________________, ______ ________________20 թ. (վայրը) Կ.Տ.
-_________________ (պաշտոնը) | _____________________ (ստորագրությունը) | _______________________ (անունը, ազգանունը)
-դարձերես
-AM | Ministry of Territorial Administration And Infrastructure
-CERTIFICATE OF PROFESSIONAL COMPETENCE (CPC) FOR THE ROAD TRANSPORT MANAGER
-N __________
-We...………………………………………………………………………………… hereby certify that ……………………………………………………………………….... born on……………………………………… in ..………………………………………… has successfully passed the tests for the examination (----- -------------20------) necessary for the award of the certificate of professional competence in road haulage in accordance with the provisions of the Quality Charter applicable to international road haulage operations carried out under the ECMT multilateral quota. This certificate constitutes the sufficient proof of professional competence referred to Article 4 of Chapter II of the Quality Charter. Issued at..............................................................…., on----- --------- 20 ------- place ________________________________________________________________ S. P.
-Organization
-Name, Surname
-date of birth | place of birth
-positio | signature | name, surname
+Տարածքային կառավարման և ենթակառուցվածքների նախարարությունը սույնով հավաստում է, որ Ministry of Territorial Administration and Infrastructure hereby certify that ____________________________________՝ ծնված/ born ___________________________________ ,
+(անունը, ազգանունը/name, surname) | (ամսաթիվը, վայրը/date and place of birth)
+__________________________________________________________________________ (մասնագիտական որակավորման վկայական տալու հիմքը/the basis for issuing a professional qualiﬁcation certiﬁcate)
+և բավարարում է միջազգային ավտոմոբիլային փոխադրումների մասնագիտական որակավորման վկայական ստանալու ՏՆԵԿ բազմակողմ քվոտայի շրջանակներում իրականացվող միջազգային ավտոճանապարհային բեռնափոխադրումների նկատմամբ կիրառվող Որակի խարտիայի պահանջներին։ Սույն վկայականը Որակի խարտիայի II գլխի 4-րդ հոդվածում նշված մասնագիտական որակավորման մասին վկայող բավարար ապացույց է։ and meets the requirements of the Quality Charter applicable to international road freight transportation carried out within the framework of the multilateral quota of the CEMT for obtaining a professional qualiﬁcation certiﬁcate for international road transport. This certiﬁcate constitutes the suﬃcient proof of professional competence referred to Article 4 of Chapter II of the Quality Charter. Կ.Տ./ S. P.
+Տրվել է՝ Issued at | _______________, (վայրը/place) | ___ _____________ 20 թ. (ամսաթիվը/date)
+__________________ (պաշտոնը/position) | ______________________ (ստորագրությունը/signature) | __________________________ (անունը, ազգանունը/name, surname)
+(ձևը խմբ. 25.09.25 N 1360-Ն)
+(հավելվածը խմբ. 25.09.25 N 1360-Ն)
 Հայաստանի Հանրապետության վարչապետի աշխատակազմի ղեկավար | Ա. Հարությունյան
 19.09.2024 ՀԱՎԱՍՏՎԱԾ Է ԷԼԵԿՏՐՈՆԱՅԻՆ ՍՏՈՐԱԳՐՈՒԹՅԱՄԲ
 Պաշտոնական հրապարակման օրը՝ 19 սեպտեմբերի 2024 թվական:
