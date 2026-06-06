@@ -1,11 +1,11 @@
 # Հավելված N 4 ՀՀ կառավարության 2007 թվականի օգոստոսի 30-ի N 1093-Ն որոշման
-2. ԲՈՒՍԱՍԱՆԻՏԱՐԱԿԱՆ ՀԱՎԱՍՏԱԳԻՐ PHYTOSANITARY CERTIFICATE Original AM №
+2. ԲՈՒՍԱՍԱՆԻՏԱՐԱԿԱՆ ՀԱՎԱՍՏԱԳԻՐ PHYTOSANITARY CERTIFICATE Original AM № QR
 ՀԱՅԱՍՏԱՆԻ ՀԱՆՐԱՊԵՏՈՒԹՅԱՆ ՍՆՆԴԱՄԹԵՐՔԻ ԱՆՎՏԱՆԳՈՒԹՅԱՆ ՏԵՍՉԱԿԱՆ ՄԱՐՄԻՆ FOOD SAFETY INSPECTION BODY OF THE REPUBLIC OF ARMENIA
 1. Արտահանողի անունն ու հասցեն Name and address of exporter | 3. Բեռ ստացողի հայտարարագրված անունն ու հասցեն Declared name and address of consignee
 4. Հայաստանի Հանրապետության սննդամթերքի անվտանգության տեսչական մարմին Food Safety Inspection body of the Republic of Armenia | 5. Ծագման վայրը Place of origin
 Բույսերի պաշտպանության և կարանտինի մարմին /երկիր/ To Plant Protection and Quarantine Organization of | 6. Հայտարարագրված փոխադրամիջոցը Declared means of conveyance
 7. Հայտարարագրված մուտքի վայրը Declared point of entry
-8. Տարբերակման նշաններ /նշառում/, փաթեթների թիվը և նկարագրերը, ապրանքի անվանումը, բույսերի բուսաբանական անվանումը Distinguishing marks, number and description of packages, name of produce and Botanical name of plants | 9. Հայտարարագրված քանակը Quantity declared
+8. Ապրանքի անվանումը,ծագման վայրը, բույսերի բուսաբանական անվանումը, հայտարարագրված քանակը, փաթեթների թիվը և նկարագրերը, տարբերակման նշաններ /նշառում/ Name of produce, place of origin, botanical name of plants, quantity declared, number and description of packages, distinguishing marks | 9. Հայտարարագրված քանակը Quantity declared
 10. Սա երաշխիք է, որ նկարագրված բույսերը, բուսական արտադրանքը և կարգավորվող առարկաները՝ ենթարկվել են տեսչական ստուգման և/ կամ փորձաքննության են ենթարկվել՝ համաձայն համապատասխան պաշտոնական ընթացակարգերի, զերծ են կարանտին վնասակար օրգանիզմներից, որոնք նշված են ներմուծող պայմանավորվող կողմից և համապատասխանում են ներմուծող պայմանավորվող կողմի բուսասանիտարական պահանջներին՝ ներառյալ կարգավորվող ոչ-կարանտին վնասակար օրգանիզմների համար պահանջները: This is to certify that the plants, plant products and other regulated articles described herein: have been inspected and/or tested according to appropriate official procedures, and are considered to be free from the quarantine pests specified by the importing contracting party, and are considered to conform with the phytosanitary requirements of the importing contracting party, including those for regulated non quarantine pests. They are deemed to be practically free from other pests
 11. Լրացուցիչ հայտարարագիր Additional declaration
 ՎԱՐԱԿԱԶԵՐԾՈՒՄ ԵՎ/ԿԱՄ ԱԽՏԱՀԱՆՈՒՄ DESINFESTATION AND/OR DESINFECTION TREATMENT 12. Մշակման եղանակը Treatment | Տրման վայրը Place of issue Ամսաթիվը՝ Date: (Ստորագրություն) (Signature)
@@ -13,6 +13,22 @@
 13. Քիմիական նյութ /ակտիվ բաղադրիչ/ Chemical (active ingredient) | 14. Տևողությունը և ջերմաստիճանը Duration and temperature
 15. Խտություն Concentration | 16. Ամսաթիվը Date
 17. Լրացուցիչ տեղեկություն Additional information
-(հավելվածը փոփ. 10.06.10 N 733-Ն, 15.09.11 N 1315-Ն, 11.05.23 N 735-Ն)
-(Ռուսերեն, ֆրանսերեն, իսպաներեն, արաբերեն և պարսկերեն տեքստերի լրացումները և փոփոխությունները տե´ս 10.06.10 N 733-Ն, 15.09.11 N 1315-Ն որոշումների մեջ)
-Հայաստանի Հանրապետության կառավարության աշխատակազմի ղեկավար-նախարար | Մ. Թոփուզյան
+Բուսասանիտարական հավաստագրի հավելված
+Appendix for phytosanitary certificate
+Original AM № | QR
+№ | 1.Արտադրանքի անվանում Name of product | 2.Բուսաբա-նական անվանում Botanical name of plans | 3.Ծագման վայր Place of origin | 4.Հայտարարված քանակ Quantity declared | 5.Փաթեթների քանակ և նկարագրու- թյուն Number and description of packages | 6.Տարբերվող նշաններ (մակնշում) Distinguis hing marks | 7.Լրացուցիչ տեղեկություն Additional information
+Լիազորված անձի անունը, ազգանունը Name of authorized officer: | Կազմակերպության կնիքը` Stamp of Organization:
+Русский 1. Экспортер и его адрес 2. Фитосанитарный сертификат 3. Заявленный получатель груза и его адрес 4. Инспекционный орган по безопасности пищевых продуктов Республики Армения 5. Место происхождения 6. Заявленный способ транспортировки 7. Заявленный пункт ввоза 8. Наименование продукции, место происхождения, ботанические название растений, заявленное количество, количество и описание упаковок, отличительные знаки 9. Заявленное количество 10. Настоящим удостоверяется, что растения, растительная продукция и другие подкарантинные материалы, описанные выше, были обследованы и/или проанализированы согласно соответствующим официальным процедурам, признаны свободными от карантинных вредных организмов, указанных импортирующей договаривающейся стороной и соответствуют фитосанитарным требованиям импортирующей договаривающейся стороны, включая требования для регулируемых некарантинных вредных организмов. Они считаются практически свободными от других вредных организмов. 11. Дополнительная декларация Обеззараживание и/или дезинфекция 12. Способ обработки 13. Химикат (действующее вещество) 14. Экспозиция и температура 15. Концентрация 16. Дата 17. Дополнительная информация Место выдачи Дата: Имя, фамилия уполномоченного лица Печать организации: (Подпись) | France 1. Nom et adresse de l'exportateur 2. Certificat phytosanitaire 3. Nom et adresse déclarés du destinataire 4. Organe d'inspection de la sécurité alimentaire de la République d'Arménie 5. Lieu d`origine 6. Moyen de transport déclaré 7. Point d'entrée déclaré 8. Nom du produit, lieu d'origine, nom botanique des végétaux, quantité déclarée, nombre et nature des colis, marques des colis 9. Quantité déclarée 10. Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été inspectés et/ou testés procédures officielles appropriées et estimés exempts d'organismes nuisibles de quarantaine comme spécifié par la partie contractante importatrice; et qu'ils sont jugés conformes aux exigences phytosanitaires de la partie contractante importatrice, y compris Ո celle concernant les organismes nuisibles réglementés non de quarantaine. Ils sont jugés pratiquement exempts d'autres organismes nuisibles. 11. Déclaration supplémentaire Traitement de désinfestation et/ou de désinfection 12. Traitement 13. Produit chimique (matiére active) 14. Durée et température 15. Concentration 16. Date 17. Renseignements complémentaires Lieu de délivrance Date: Nom du fonctionnaire autorisé Cachet de l'organisation: (Signature)
+Русский
+Приложение к фитосанитарному сертификату
+Appendix for phytosanitary certificate
+Original AM № | QR
+№ | 1.Наименование продукции Name of product | 2.Ботаническое название растений Botanical name of plans | 3.Место происхождения Place of origin | 4.Заявленное количество Quantity declared | 5.Количество и oписание упаковок Number and description of packages | 6.Отличительные знаки Distinguishing marks | 7.Дополнительная информация Additional information
+Имя, фамилия уполномоченного лица: | Печать организации.
+France
+Annexe du certificat phytosanitaire
+Appendix for phytosanitary certificate
+Original AM № | QR
+№ | 1.Nom du produit Name of product | 2.Nom botanique des végétaux Botanical name of plans | 3.Lieu d'origine Place of origin | 4.Quantité déclarée Quantity declared | 5.Nombre et nature des colis Number and description of packages | 6.Marques des colis Distinguishing marks | 7.Renseigneme nts complémentaire Additional information
+Nom du fonctionnaire autorisé: | Cachet de l'organisation:
+(հավելվածը փոփ. 10.06.10 N 733-Ն, 15.09.11 N 1315-Ն, 11.05.23 N 735-Ն, խմբ. 04.06.26 N 805-Ն)
