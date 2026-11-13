@@ -1,0 +1,50 @@
+{
+  "corpus": "am/national/sublaws",
+  "name": "Normative sub-laws of the Republic of Armenia (government and prime-minister decisions, ministerial orders)",
+  "label": "Armenia (sub-laws)",
+  "language": "hy",
+  "history_from": "2002-03-08",
+  "record_to": "2026-10-29",
+  "record_note": "13162 normative acts on ARLIS (9760 government decisions, 136 prime-minister decisions, 3266 ministerial orders), every consolidated text, to the in-force date of 2026-10-29; data built 2026-10-29.",
+  "in_force_trailer": "In-force",
+  "has_future_branch": true,
+  "future_branch": "future",
+  "laws": {
+    "government_decisions": 9760,
+    "prime_minister_decisions": 136,
+    "ministerial_orders": 3266
+  },
+  "built": "2026-10-29",
+  "dates": {
+    "commit": "in-force (start of the period ARLIS gives each consolidated text)",
+    "other_trailers": [
+      "Enacted"
+    ],
+    "time": "12:00 Asia/Yerevan (+0400)",
+    "before_1970": "clamped to 1970-01-01",
+    "future": "branch future, never merged"
+  },
+  "author": {
+    "amendment": "the amending act (ARLIS pairs each consolidated text with one act)",
+    "original": "the act itself",
+    "evidence_trailer": "Evidence"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "not extracted for Armenia yet; transitional provisions are in the amending act at the Source link",
+    "default_reach": {
+      "rule": "no retroactive effect unless the act says so, and never to worsen a person's position",
+      "meaning": "a legal act applies to relations that arise after it takes effect; it has retroactive force only where the act provides for it, and acts that establish or aggravate liability or worsen a person's legal position have no retroactive force",
+      "authority": "Constitution of the Republic of Armenia (2015), article 73; Law on Normative Legal Acts (ՀՕ-180-Ն, 2018), article 28, which covers every normative legal act, sub-laws included; on transitional provisions, article 13(6)",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "((?:government|prime-minister|ministerial)/[0-9]+)/0*([0-9]+(?:\\.[0-9]+)?)\\.md",
+    "cites": "(^|[^0-9.]){n}(-ին|-րդ)? (կետ|հոդված)"
+  },
+  "tool": "tools/in_force_on.py",
+  "companion": "lexifina/armenia-law (am/national/acts): the Constitution, codes and laws"
+}
